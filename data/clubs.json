@@ -1,0 +1,357 @@
+{
+  "BA001": {
+    "short": "BaYC",
+    "long": "Bayerischer Yacht-Club e. V.",
+    "color": "#009E73"
+  },
+  "B046": {
+    "short": "BeYC",
+    "long": "Berliner Yacht-Club e. V.",
+    "color": "#D55E00"
+  },
+  "HA005": {
+    "short": "BSC",
+    "long": "Blankeneser Segel-Club e. V.",
+    "color": "#EE99AA"
+  },
+  "NW155": {
+    "short": "BoYC",
+    "long": "Bocholter Yachtclub e. V.",
+    "color": "#E09748"
+  },
+  "BW001": {
+    "short": "BYCÜ",
+    "long": "Bodensee-Yacht-Club Überlingen e. V.",
+    "color": "#117733"
+  },
+  "NW002": {
+    "short": "DYC",
+    "long": "Düsseldorfer Yachtclub e. V.",
+    "color": "#CC6677"
+  },
+  "HA072": {
+    "short": "ENSFR",
+    "long": "Entdecker- und Seefahrerfördervereinigung e. V.",
+    "color": "#31E066"
+  },
+  "B004": {
+    "short": "JSC",
+    "long": "Joersfelder Segel-Club e. V.",
+    "color": "#E01B3F"
+  },
+  "SH002": {
+    "short": "KiYC",
+    "long": "Kieler Yacht-Club e. V.",
+    "color": "#80E048"
+  },
+  "B041": {
+    "short": "KAR",
+    "long": "Klub am Rupenhorn e. V.",
+    "color": "#882255"
+  },
+  "HA033": {
+    "short": "MSC",
+    "long": "Mühlenberger Segel-Club e. V.",
+    "color": "#F0E442"
+  },
+  "BA003": {
+    "short": "MYC",
+    "long": "Münchner Yacht-Club e. V.",
+    "color": "#DDCC77"
+  },
+  "HA002": {
+    "short": "NRV",
+    "long": "Norddeutscher Regatta Verein",
+    "color": "#56B4E9"
+  },
+  "B048": {
+    "short": "PYC",
+    "long": "Potsdamer Yacht Club e. V.",
+    "color": "#44AA99"
+  },
+  "BW044": {
+    "short": "SMCÜ",
+    "long": "Segel- und Motorboot-Club Überlingen e. V.",
+    "color": "#AA4499"
+  },
+  "SH037": {
+    "short": "SVI",
+    "long": "Seglervereinigung Itzehoe e. V.",
+    "color": "#999933"
+  },
+  "NW137": {
+    "short": "SVWu",
+    "long": "Segler-Vereinigung Wuppertal e. V.",
+    "color": "#A348E0"
+  },
+  "BW002": {
+    "short": "WYC",
+    "long": "Württembergischer Yacht-Club e. V.",
+    "color": "#CC79A7"
+  },
+  "MV041": {
+    "short": "ASVW",
+    "long": "Akademischer Segelverein Warnemünde e. V.",
+    "color": "#88CCEE"
+  },
+  "HA079": {
+    "short": "BuSC",
+    "long": "Bucerius Segel Club e. V.",
+    "color": "#E048BD"
+  },
+  "BA018": {
+    "short": "DTYC",
+    "long": "Deutscher Touring Yacht-Club e. V.",
+    "color": "#1B32E0"
+  },
+  "NW024": {
+    "short": "ETUF",
+    "long": "Essener Turn- und Fechtklub e. V.",
+    "color": "#8A15AD"
+  },
+  "SH001": {
+    "short": "FSC",
+    "long": "Flensburger Segel-Club e. V.",
+    "color": "#000000"
+  },
+  "H005": {
+    "short": "FYC",
+    "long": "Frankfurter Yachtclub e. V.",
+    "color": "#1515AD"
+  },
+  "HA004": {
+    "short": "HSC",
+    "long": "Hamburger Segel-Club e. V.",
+    "color": "#6699CC"
+  },
+  "BW007": {
+    "short": "KoYC",
+    "long": "Konstanzer Yacht-Club e. V.",
+    "color": "#E69F00"
+  },
+  "SH036": {
+    "short": "LSV",
+    "long": "Lübecker Segler Verein von 1885 e. V.",
+    "color": "#6A1BE0"
+  },
+  "SH038": {
+    "short": "LYC",
+    "long": "Lübecker Yacht-Club e. V.",
+    "color": "#661100"
+  },
+  "BA005": {
+    "short": "MRSV Bayern",
+    "long": "Münchener Ruder- und Segelverein „BAYERN“ von 1910 e. V.",
+    "color": "#AD1578"
+  },
+  "BG058": {
+    "short": "RSN",
+    "long": "Regatta-Segler Neuruppin e. V.",
+    "color": "#3172E0"
+  },
+  "NW070": {
+    "short": "SHM",
+    "long": "Segel-Club Hansa Münster e. V.",
+    "color": "#E0391B"
+  },
+  "H001": {
+    "short": "SCR",
+    "long": "Segelclub Rheingau e. V.",
+    "color": "#C7C240"
+  },
+  "NW087": {
+    "short": "SCV",
+    "long": "Segel-Club Ville e. V.",
+    "color": "#3FE01B"
+  },
+  "B049": {
+    "short": "SV 03",
+    "long": "Seglervereinigung 1903 Berlin e. V.",
+    "color": "#332288"
+  },
+  "B044": {
+    "short": "VSaW",
+    "long": "Verein Seglerhaus am Wannsee e. V.",
+    "color": "#0072B2"
+  },
+  "SC038": {
+    "short": "WsW",
+    "long": "Wir sind Wir-Inclusion in Sailing e. V.",
+    "color": "#84C718"
+  },
+  "BR016": {
+    "short": "WVH",
+    "long": "Wassersport-Verein Hemelingen e. V.",
+    "color": "#1BE0C6"
+  },
+  "BA025": {
+    "short": "CYC",
+    "long": "Chiemsee Yacht Club e. V.",
+    "color": "#E01BE0"
+  },
+  "SH007": {
+    "short": "SSC",
+    "long": "Schlei-Segel-Club e. V.",
+    "color": "#E01B88"
+  },
+  "SH198": {
+    "short": "ONEKiel",
+    "long": "ONEKiel e. V.",
+    "color": "#18C78F"
+  },
+  "BR022": {
+    "short": "SKWB",
+    "long": "Segelkameradschaft Das Wappen von Bremen e. V.",
+    "color": "#AD1515"
+  },
+  "NW190": {
+    "short": "SLS",
+    "long": "Seglergemeinschaft Lohheider-See e. V.",
+    "color": "#1AAD15"
+  },
+  "BA097": {
+    "short": "LSC",
+    "long": "Lindauer Segler-Club e. V.",
+    "color": "#3751AD"
+  },
+  "MV008": {
+    "short": "SYC",
+    "long": "Schweriner Yacht-Club e. V.",
+    "color": "#5BAD37"
+  },
+  "B120": {
+    "short": "YCBG",
+    "long": "Yachtclub Berlin-Grünau e. V.",
+    "color": "#AD5537"
+  },
+  "NW174": {
+    "short": "SKBUe",
+    "long": "Segelklub Bayer-Uerdingen e. V.",
+    "color": "#26AD4C"
+  },
+  "BW003": {
+    "short": "YCRa",
+    "long": "Yacht-Club Radolfzell e. V.",
+    "color": "#AD1543"
+  },
+  "NW273": {
+    "short": "SCH",
+    "long": "Segel-Club Hattingen e. V.",
+    "color": "#E0CD1B"
+  },
+  "BA052": {
+    "short": "YCN",
+    "long": "Yacht-Club Noris e. V.",
+    "color": "#5826AD"
+  },
+  "BW004": {
+    "short": "YCL",
+    "long": "Yacht-Club Langenargen",
+    "color": "#4F48E0"
+  },
+  "NW045": {
+    "short": "SCM",
+    "long": "Segel-Club Münster",
+    "color": "#7A40C7"
+  },
+  "MV044": {
+    "short": "YCW",
+    "long": "Yachtclub Wieck",
+    "color": "#C77640"
+  },
+  "NW020": {
+    "short": "DuSC",
+    "long": "Duisburger Segel-Club",
+    "color": "#1BE03C"
+  },
+  "NW040": {
+    "short": "WYD",
+    "long": "Westfälischer Yachtclub Delecke",
+    "color": "#B6E01B"
+  },
+  "N043": {
+    "short": "SLSV",
+    "long": "Schaumburg Lippischer Seglerverein",
+    "color": "#ABE048"
+  },
+  "NW057": {
+    "short": "DUYC",
+    "long": "Duisburger Yacht-Club",
+    "color": "#3780AD"
+  },
+  "SH140": {
+    "short": "SVGM",
+    "long": "Seglervereinigung Gelting-Mole",
+    "color": "#AD375D"
+  },
+  "N001": {
+    "short": "SVST",
+    "long": "Segler-Verein Stade",
+    "color": "#E03163"
+  },
+  "BA015": {
+    "short": "ASC",
+    "long": "Augsburger Segler-Club",
+    "color": "#3818C7"
+  },
+  "SH013": {
+    "short": "SCE",
+    "long": "Segel-Club Eckernförde",
+    "color": "#E05248"
+  },
+  "NW083": {
+    "short": "SCSI",
+    "long": "Segel-Club Sorpesee Iserlohn",
+    "color": "#ADAD15"
+  },
+  "MV007": {
+    "short": "RSVM",
+    "long": "Röbeler Segler-Verein Müritz",
+    "color": "#48E0D9"
+  },
+  "NW039": {
+    "short": "YCM",
+    "long": "Yachtclub Möhnesee",
+    "color": "#18A4C7"
+  },
+  "HA028": {
+    "short": "ASVH",
+    "long": "Akademischer Segler-Verein Hamburg",
+    "color": "#AD7815"
+  },
+  "HA098": {
+    "short": "FCStP",
+    "long": "Fußball-Club St. Pauli von 1910 e.V. Segelabteilung",
+    "color": "#E07E1B"
+  },
+  "R003": {
+    "short": "SCO",
+    "long": "Segelclub Otterstadt",
+    "color": "#40BCC7"
+  },
+  "MV050": {
+    "short": "YCSTR",
+    "long": "Yacht Club Strelasund",
+    "color": "#E01BB6"
+  },
+  "HA007": {
+    "short": "SVAOe",
+    "long": "Segler-Vereinigung Altona-Oevelgönne",
+    "color": "#B518C7"
+  },
+  "N068": {
+    "short": "SCSz",
+    "long": "Segel-Club Salzgitter",
+    "color": "#48E0A3"
+  },
+  "B002": {
+    "short": "TSC",
+    "long": "Tegeler Segel-Club",
+    "color": "#E0488F"
+  },
+  "SC030": {
+    "short": "CYCM",
+    "long": "Cospudener Yacht Club Markkleeberg",
+    "color": "#52E048"
+  }
+}

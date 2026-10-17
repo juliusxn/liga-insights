@@ -1,0 +1,150 @@
+{
+    "clubs": "./clubs.json",
+    "competition": {
+        "league_1": {
+            "name": "1. Deutsche Segel-Bundesliga",
+            "seasons": [
+                {
+                    "year": 2026,
+                    "events": 6,
+                    "ranking_file": "./league_1/2026/season.json"
+                },
+                {
+                    "year": 2025,
+                    "events": 6,
+                    "ranking_file": "./league_1/2025/season.json"
+                },
+                {
+                    "year": 2024,
+                    "events": 6,
+                    "ranking_file": "./league_1/2024/season.json"
+                },
+                {
+                    "year": 2023,
+                    "events": 6,
+                    "ranking_file": "./league_1/2023/season.json"
+                },
+                {
+                    "year": 2022,
+                    "events": 6,
+                    "ranking_file": "./league_1/2022/season.json"
+                },
+                {
+                    "year": 2021,
+                    "events": 6,
+                    "ranking_file": "./league_1/2021/season.json"
+                },
+                {
+                    "year": 2020,
+                    "events": 6,
+                    "ranking_file": "./league_1/2020/season.json"
+                },
+                {
+                    "year": 2019,
+                    "events": 6,
+                    "ranking_file": "./league_1/2019/season.json"
+                },
+                {
+                    "year": 2018,
+                    "events": 6,
+                    "ranking_file": "./league_1/2018/season.json"
+                },
+                {
+                    "year": 2017,
+                    "events": 6,
+                    "ranking_file": "./league_1/2017/season.json"
+                },
+                {
+                    "year": 2016,
+                    "events": 6,
+                    "ranking_file": "./league_1/2016/season.json"
+                },
+                {
+                    "year": 2015,
+                    "events": 7,
+                    "ranking_file": "./league_1/2015/season.json"
+                },
+                {
+                    "year": 2014,
+                    "events": 5,
+                    "ranking_file": "./league_1/2014/season.json"
+                },
+                {
+                    "year": 2013,
+                    "events": 5,
+                    "ranking_file": "./league_1/2013/season.json"
+                }
+            ]
+        },
+        "league_2": {
+            "name": "2. Deutsche Segel-Bundesliga",
+            "seasons": [
+                {
+                    "year": 2026,
+                    "events": 5,
+                    "ranking_file": "./league_2/2026/season.json"
+                },
+                {
+                    "year": 2025,
+                    "events": 5,
+                    "ranking_file": "./league_2/2025/season.json"
+                },
+                {
+                    "year": 2024,
+                    "events": 4,
+                    "ranking_file": "./league_2/2024/season.json"
+                },
+                {
+                    "year": 2023,
+                    "events": 5,
+                    "ranking_file": "./league_2/2023/season.json"
+                },
+                {
+                    "year": 2022,
+                    "events": 5,
+                    "ranking_file": "./league_2/2022/season.json"
+                },
+                {
+                    "year": 2021,
+                    "events": 5,
+                    "ranking_file": "./league_2/2021/season.json"
+                },
+                {
+                    "year": 2020,
+                    "events": 4,
+                    "ranking_file": "./league_2/2020/season.json"
+                },
+                {
+                    "year": 2019,
+                    "events": 5,
+                    "ranking_file": "./league_2/2019/season.json"
+                },
+                {
+                    "year": 2018,
+                    "events": 5,
+                    "ranking_file": "./league_2/2018/season.json"
+                },
+                {
+                    "year": 2017,
+                    "events": 5,
+                    "ranking_file": "./league_2/2017/season.json"
+                },
+                {
+                    "year": 2016,
+                    "events": 5,
+                    "ranking_file": "./league_2/2016/season.json"
+                },
+                {
+                    "year": 2015,
+                    "events": 5,
+                    "ranking_file": "./league_2/2015/season.json"
+                },
+                {
+                    "year": 2014,
+                    "events": 2,
+                    "ranking_file": "./league_2/2014/season.json"
+                }
+            ]
+        }
+    }
+}

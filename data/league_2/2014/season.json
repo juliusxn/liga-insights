@@ -1,0 +1,128 @@
+{
+  "BR016": {
+    "events": [
+      18,
+      17
+    ],
+    "season": 1
+  },
+  "BW044": {
+    "events": [
+      15,
+      18
+    ],
+    "season": 2
+  },
+  "BA003": {
+    "events": [
+      17,
+      11
+    ],
+    "season": 3
+  },
+  "B048": {
+    "events": [
+      12,
+      16
+    ],
+    "season": 4
+  },
+  "NW174": {
+    "events": [
+      14,
+      14
+    ],
+    "season": 5
+  },
+  "HA004": {
+    "events": [
+      16,
+      10
+    ],
+    "season": 6
+  },
+  "B041": {
+    "events": [
+      10,
+      13
+    ],
+    "season": 7
+  },
+  "BW004": {
+    "events": [
+      5,
+      15
+    ],
+    "season": 8
+  },
+  "NW087": {
+    "events": [
+      11,
+      9
+    ],
+    "season": 9
+  },
+  "B049": {
+    "events": [
+      7,
+      12
+    ],
+    "season": 10
+  },
+  "NW045": {
+    "events": [
+      13,
+      3
+    ],
+    "season": 11
+  },
+  "MV041": {
+    "events": [
+      6,
+      8
+    ],
+    "season": 12
+  },
+  "MV044": {
+    "events": [
+      8,
+      5
+    ],
+    "season": 13
+  },
+  "NW273": {
+    "events": [
+      9,
+      1
+    ],
+    "season": 14
+  },
+  "HA072": {
+    "events": [
+      4,
+      6
+    ],
+    "season": 15
+  },
+  "NW020": {
+    "events": [
+      1,
+      7
+    ],
+    "season": 16
+  },
+  "NW040": {
+    "events": [
+      2,
+      4
+    ],
+    "season": 17
+  },
+  "BA052": {
+    "events": [
+      3,
+      2
+    ],
+    "season": 18
+  }
+}

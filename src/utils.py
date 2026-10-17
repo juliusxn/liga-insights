@@ -117,9 +117,9 @@ def plot_alltime_average(rank_df, clubs, output_file="final_season_rank.png"):
                 color=club["color"],
             )
 
-    ax.set_title("Running average final season rank across both leagues per club")
-    ax.set_xlabel("Season")
-    ax.set_ylabel("Running average rank")
+    ax.set_title("Ewige Bestenliste Segelbundesliga")
+    ax.set_xlabel("Jahr")
+    ax.set_ylabel("Durchschnittliche Platzierung")
     ax.set_ylim(36, 0)
     ax.grid(axis="y", alpha=0.3)
     fig.tight_layout()
@@ -165,8 +165,8 @@ def plot_year_ranking(data_dir, manifest, clubs, season, output_file="season_ran
             )
 
         ax.set_title(manifest["competition"][league]["name"] + f" {season}")
-        ax.set_ylabel("Event rank")
-        average_ax.set_ylabel("Running average event rank")
+        ax.set_ylabel("Platzierung")
+        average_ax.set_ylabel("Durchschnitts Platzierung")
         ax.set_ylim(0, len(event_ranks) + 1)
         ax.set_yticks(np.arange(1, len(event_ranks) + 1))
         average_ax.set_ylim(0, len(event_ranks) + 1)

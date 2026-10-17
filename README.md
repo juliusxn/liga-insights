@@ -1,5 +1,5 @@
-# Liga-insights
-This repository provides insights for the **Deutsche Segelbundesliga**.
+# liga-insights
+This repository provides result insights for the [Deutsche Segelbundesliga](https://segelbundesliga.de).
 
 ## Ewige Bestenliste
 Regeln:

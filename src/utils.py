@@ -59,6 +59,18 @@ def compute_ranking(data_dir, manifest, clubs):
     return rank_df
 
 
+def compute_running_average(rank_df):
+    missing_rank = rank_df.max(axis=0).add(1)
+    average_rank_df = rank_df.where(rank_df.notna(), missing_rank, axis="columns")
+    return average_rank_df.T.expanding(min_periods=1).mean().T
+
+
+def compute_running_average_ranking(rank_df):
+    """Return each club's discrete rank by running average for every season."""
+    running_average_df = compute_running_average(rank_df)
+    return running_average_df.rank(axis=0, method="min", ascending=True).astype(int)
+
+
 def plot_alltime_ranking(rank_df, clubs, output_file="final_season_rank.png"):
     fig, ax = plt.subplots(figsize=(14, 10))
     for club_id, club in clubs.items():
@@ -91,14 +103,10 @@ def plot_alltime_ranking(rank_df, clubs, output_file="final_season_rank.png"):
 
 
 def plot_alltime_average(rank_df, clubs, output_file="final_season_rank.png"):
-    missing_rank = rank_df.max(axis=0).add(1)
-    average_rank_df = rank_df.where(rank_df.notna(), missing_rank, axis="columns")
-    running_average_df = average_rank_df.T.expanding(min_periods=1).mean().T
+    running_average_df = compute_running_average(rank_df)
 
     fig, ax = plt.subplots(figsize=(14, 10))
     for club_id, club in clubs.items():
-        if pd.isna(rank_df.loc[club_id, 2026]):
-            continue
         ax.plot(
             running_average_df.columns,
             running_average_df.loc[club_id],
@@ -120,7 +128,53 @@ def plot_alltime_average(rank_df, clubs, output_file="final_season_rank.png"):
     ax.set_title("Ewige Bestenliste Segelbundesliga")
     ax.set_xlabel("Jahr")
     ax.set_ylabel("Durchschnittliche Platzierung")
-    ax.set_ylim(36, 0)
+    ax.set_ylim(37.5, 0.5)
+    ax.set_yticks([1, 5, 10, 15, 20, 25, 30, 35])
+    ax.grid(axis="y", alpha=0.3)
+    fig.tight_layout()
+    plt.savefig(output_file, dpi=600)
+    plt.show()
+
+
+def plot_running_average_ranking(rank_df, clubs, output_file="running_average_season_rank.png"):
+    ranking_df = compute_running_average_ranking(rank_df)
+    last_year = ranking_df.columns[-1]
+    clubs_by_last_rank = {}
+    for club_id in ranking_df.index:
+        last_rank = ranking_df.loc[club_id, last_year]
+        clubs_by_last_rank.setdefault(last_rank, []).append(club_id)
+
+    annotation_offsets = {}
+    for club_ids in clubs_by_last_rank.values():
+        for position, club_id in enumerate(club_ids):
+            annotation_offsets[club_id] = 5 + position * 35
+
+    fig, ax = plt.subplots(figsize=(14, 10))
+    for club_id, club in clubs.items():
+        ax.plot(
+            ranking_df.columns,
+            ranking_df.loc[club_id],
+            marker="o",
+            label=club["short"],
+            color=club["color"],
+        )
+        last_season = ranking_df.loc[club_id].last_valid_index()
+        if last_season is not None:
+            ax.annotate(
+                club["short"],
+                xy=(last_season, ranking_df.loc[club_id, last_season]),
+                xytext=(annotation_offsets[club_id], 0),
+                textcoords="offset points",
+                va="center",
+                color=club["color"],
+            )
+
+    ax.set_title("Ewige Bestenliste")
+    ax.set_xlabel("Jahr")
+    ax.set_ylabel("Platzierung")
+    ax.set_ylim(len(clubs) + 0.5, 0.5)
+    ax.set_yticks(np.arange(1, len(clubs) + 1, 5))
+    ax.set_xticks(ranking_df.columns)
     ax.grid(axis="y", alpha=0.3)
     fig.tight_layout()
     plt.savefig(output_file, dpi=600)
@@ -156,12 +210,14 @@ def plot_year_ranking(data_dir, manifest, clubs, season, output_file="season_ran
                 event_ranks.loc[club_id],
                 color=club["color"],
                 label=label,
+                marker="o",
             )
             average_ax.plot(
                 running_average_ranks.columns,
                 running_average_ranks.loc[club_id],
                 color=club["color"],
                 linestyle="--",
+                marker="o",
             )
 
         ax.set_title(manifest["competition"][league]["name"] + f" {season}")

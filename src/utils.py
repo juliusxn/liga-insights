@@ -74,6 +74,86 @@ def compute_running_average_ranking(rank_df, years=None):
     return running_average_df.rank(axis=0, method="min", ascending=True).astype(int)
 
 
+def compute_average_points_by_season_rank(data_dir, manifest):
+    """Return season points and event-result variation grouped by year and rank.
+
+    Event places are points in the ranking data.  The standard deviation is
+    calculated across each club's event results within a season.  If multiple
+    clubs have the same rank in a season, their values are averaged.
+    """
+    averages = {}
+    for league, competition in manifest["competition"].items():
+        records = []
+        for season in competition["seasons"]:
+            with (data_dir / season["ranking_file"]).open(encoding="utf-8") as file:
+                ranking = json.load(file)
+
+            for result in ranking.values():
+                event_results = np.asarray(result["events"], dtype=float)
+                records.append(
+                    {
+                        "year": season["year"],
+                        "season_rank": result["season"],
+                        "points": event_results.mean(),
+                        "event_std": event_results.std(ddof=0),
+                    }
+                )
+
+        by_year_and_rank = pd.DataFrame(records).groupby(["year", "season_rank"], sort=True)
+        averages[league] = by_year_and_rank.agg(
+            average_points=("points", "mean"),
+            std_event_results=("event_std", "mean"),
+            seasons=("points", "size"),
+        )
+    return averages
+
+
+def plot_average_points_by_season_rank(data_dir, manifest):
+    """Plot points needed for each final rank over time in both leagues."""
+    averages = compute_average_points_by_season_rank(data_dir, manifest)
+    fig, axes = plt.subplots(2, 1, figsize=(10, 14), sharex=True)
+
+    for ax, league in zip(axes, ("league_1", "league_2")):
+        league_averages = averages[league]
+        points = league_averages["average_points"].unstack("season_rank")
+        event_std = league_averages["std_event_results"].unstack("season_rank")
+        for season_rank in points.columns:
+            observed = ax.errorbar(
+                points.index,
+                points[season_rank],
+                marker="o",
+                capsize=3,
+                label=f"{season_rank}. Platz",
+            )
+            rank_points = points[season_rank].dropna()
+            if len(rank_points) >= 2:
+                trend_coefficients = np.polyfit(
+                    rank_points.index.to_numpy(dtype=float),
+                    rank_points.to_numpy(dtype=float),
+                    deg=1,
+                )
+                trend_years = np.array([rank_points.index.min(), rank_points.index.max()], dtype=float)
+                ax.plot(
+                    trend_years,
+                    np.polyval(trend_coefficients, trend_years),
+                    color=observed.lines[0].get_color(),
+                    linestyle="--",
+                    label="_nolegend_",
+                    alpha=0.5,
+                )
+        ax.set_title(manifest["competition"][league]["name"])
+        ax.set_xticks(points.index)
+        ax.set_ylabel("Average points")
+        ax.set_yticks(np.arange(1, 19, 1))
+        ax.invert_yaxis()
+        ax.grid(axis="both", alpha=0.3)
+        ax.legend(bbox_to_anchor=(1.02, 0.5), loc="center left")
+    axes[-1].set_xlabel("Year")
+    fig.suptitle("Points required for each season rank over time")
+    fig.tight_layout()
+    return fig, axes
+
+
 def plot_final_results(rank_df, clubs, years=None):
     fig, ax = plt.subplots(figsize=(14, 10))
     selected_rank_df = rank_df.loc[:, years] if years is not None else rank_df

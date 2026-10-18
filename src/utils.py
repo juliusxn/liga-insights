@@ -60,33 +60,37 @@ def compute_ranking(data_dir, manifest):
     return rank_df
 
 
-def compute_running_average(rank_df):
-    missing_rank = rank_df.max(axis=0).add(1)
-    average_rank_df = rank_df.where(rank_df.notna(), missing_rank, axis="columns")
+def compute_running_average(rank_df, years=None):
+    """Return each club's running average for the selected years."""
+    selected_rank_df = rank_df.loc[:, years] if years is not None else rank_df
+    missing_rank = selected_rank_df.max(axis=0).add(1)
+    average_rank_df = selected_rank_df.where(selected_rank_df.notna(), missing_rank, axis="columns")
     return average_rank_df.T.expanding(min_periods=1).mean().T
 
 
-def compute_running_average_ranking(rank_df):
-    """Return each club's discrete rank by running average for every season."""
-    running_average_df = compute_running_average(rank_df)
+def compute_running_average_ranking(rank_df, years=None):
+    """Return each club's discrete rank by running average for the selected years."""
+    running_average_df = compute_running_average(rank_df, years)
     return running_average_df.rank(axis=0, method="min", ascending=True).astype(int)
 
 
-def plot_final_results(rank_df, clubs):
+def plot_final_results(rank_df, clubs, years=None):
     fig, ax = plt.subplots(figsize=(14, 10))
+    selected_rank_df = rank_df.loc[:, years] if years is not None else rank_df
     for club_id, club in clubs.items():
+        club_results = selected_rank_df.loc[club_id].dropna()
         ax.plot(
-            rank_df.columns,
-            rank_df.loc[club_id],
+            club_results.index,
+            club_results,
             marker="o",
             label=clubs[club_id]["short"],
             color=clubs[club_id]["color"],
         )
-        last_season = rank_df.loc[club_id].last_valid_index()
+        last_season = club_results.last_valid_index()
         if last_season is not None:
             ax.annotate(
                 club["short"],
-                xy=(last_season, rank_df.loc[club_id, last_season]),
+                xy=(last_season, club_results.loc[last_season]),
                 xytext=(5, 0),
                 textcoords="offset points",
                 va="center",
@@ -102,8 +106,8 @@ def plot_final_results(rank_df, clubs):
     return fig, ax
 
 
-def plot_alltime_average(rank_df, clubs):
-    running_average_df = compute_running_average(rank_df)
+def plot_alltime_average(rank_df, clubs, years=None):
+    running_average_df = compute_running_average(rank_df, years)
 
     fig, ax = plt.subplots(figsize=(14, 10))
     for club_id, club in clubs.items():
@@ -135,8 +139,8 @@ def plot_alltime_average(rank_df, clubs):
     return fig, ax
 
 
-def plot_alltime_average_ranking(rank_df, clubs):
-    ranking_df = compute_running_average_ranking(rank_df)
+def plot_alltime_average_ranking(rank_df, clubs, years=None):
+    ranking_df = compute_running_average_ranking(rank_df, years)
     last_year = ranking_df.columns[-1]
     clubs_by_last_rank = {}
     for club_id in ranking_df.index:
@@ -179,7 +183,7 @@ def plot_alltime_average_ranking(rank_df, clubs):
     return fig, ax
 
 
-def plot_season(data_dir, manifest, clubs, season):
+def plot_season(data_dir, manifest, clubs, year):
     fig, axes = plt.subplots(2, 1, figsize=(14, 16), sharex=True)
 
     for ax, league, title in zip(
@@ -190,7 +194,7 @@ def plot_season(data_dir, manifest, clubs, season):
         active_season = next(
             active_season
             for active_season in manifest["competition"][league]["seasons"]
-            if active_season["year"] == season
+            if active_season["year"] == year
         )
         with (data_dir / active_season["ranking_file"]).open() as f:
             ranking = json.load(f)
@@ -218,7 +222,7 @@ def plot_season(data_dir, manifest, clubs, season):
                 marker="o",
             )
 
-        ax.set_title(manifest["competition"][league]["name"] + f" {season}")
+        ax.set_title(manifest["competition"][league]["name"] + f" {year}")
         ax.set_ylabel("Platzierung")
         average_ax.set_ylabel("Durchschnitts Platzierung")
         ax.set_ylim(0, len(event_ranks) + 1)
@@ -242,6 +246,6 @@ def plot_season(data_dir, manifest, clubs, season):
         )
 
     axes[-1].set_xlabel("Event")
-    fig.suptitle(f"Saison {season}")
+    fig.suptitle(f"Saison {year}", fontsize=16)
     fig.tight_layout(rect=(0, 0, 0.92, 0.97))
     return fig, axes

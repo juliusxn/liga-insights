@@ -17,10 +17,10 @@ def prepare():
 
     from config.paths import DATA_DIR, MANIFEST_FILE
 
-    return PROJECT_ROOT, DATA_DIR
+    return PROJECT_ROOT, DATA_DIR, MANIFEST_FILE
 
 
-def load_manifest(data_dir):
+def load_manifest(file_path):
     """_summary_
 
     Returns:
@@ -28,7 +28,7 @@ def load_manifest(data_dir):
     """
 
     with open(
-        os.path.join(data_dir, "manifest.json"),
+        file_path,
         "r",
         encoding="utf-8",
     ) as file:
@@ -41,7 +41,8 @@ def load_clubs(file_path):
     return clubs
 
 
-def compute_ranking(data_dir, manifest, clubs):
+def compute_ranking(data_dir, manifest):
+    clubs = load_clubs(data_dir / manifest["clubs"])
     season_ranks = {}
     for league, competition in manifest["competition"].items():
         rank_offset = 18 if league == "league_2" else 0
@@ -71,7 +72,7 @@ def compute_running_average_ranking(rank_df):
     return running_average_df.rank(axis=0, method="min", ascending=True).astype(int)
 
 
-def plot_alltime_ranking(rank_df, clubs, output_file="final_season_rank.png"):
+def plot_final_results(rank_df, clubs):
     fig, ax = plt.subplots(figsize=(14, 10))
     for club_id, club in clubs.items():
         ax.plot(
@@ -98,11 +99,10 @@ def plot_alltime_ranking(rank_df, clubs, output_file="final_season_rank.png"):
     ax.invert_yaxis()
     ax.grid(axis="y", alpha=0.3)
     fig.tight_layout()
-    plt.savefig(output_file, dpi=600)
-    plt.show()
+    return fig, ax
 
 
-def plot_alltime_average(rank_df, clubs, output_file="final_season_rank.png"):
+def plot_alltime_average(rank_df, clubs):
     running_average_df = compute_running_average(rank_df)
 
     fig, ax = plt.subplots(figsize=(14, 10))
@@ -132,11 +132,10 @@ def plot_alltime_average(rank_df, clubs, output_file="final_season_rank.png"):
     ax.set_yticks([1, 5, 10, 15, 20, 25, 30, 35])
     ax.grid(axis="y", alpha=0.3)
     fig.tight_layout()
-    plt.savefig(output_file, dpi=600)
-    plt.show()
+    return fig, ax
 
 
-def plot_running_average_ranking(rank_df, clubs, output_file="running_average_season_rank.png"):
+def plot_alltime_average_ranking(rank_df, clubs):
     ranking_df = compute_running_average_ranking(rank_df)
     last_year = ranking_df.columns[-1]
     clubs_by_last_rank = {}
@@ -177,11 +176,10 @@ def plot_running_average_ranking(rank_df, clubs, output_file="running_average_se
     ax.set_xticks(ranking_df.columns)
     ax.grid(axis="y", alpha=0.3)
     fig.tight_layout()
-    plt.savefig(output_file, dpi=600)
-    plt.show()
+    return fig, ax
 
 
-def plot_year_ranking(data_dir, manifest, clubs, season, output_file="season_rank.png"):
+def plot_season(data_dir, manifest, clubs, season):
     fig, axes = plt.subplots(2, 1, figsize=(14, 16), sharex=True)
 
     for ax, league, title in zip(
@@ -240,11 +238,10 @@ def plot_year_ranking(data_dir, manifest, clubs, season, output_file="season_ran
             labels + average_labels,
             bbox_to_anchor=(1.1, 0.5),
             loc="center left",
-            title="Club",
+            title="Endstand",
         )
 
     axes[-1].set_xlabel("Event")
-    fig.suptitle(f"{season} event rankings and running average event rankings")
+    fig.suptitle(f"Saison {season}")
     fig.tight_layout(rect=(0, 0, 0.92, 0.97))
-    plt.savefig(output_file, dpi=600)
-    plt.show()
+    return fig, axes

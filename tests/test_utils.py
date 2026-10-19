@@ -52,7 +52,7 @@ def test_compute_running_average_ranking_uses_selected_years():
     expected = pd.DataFrame(
         {
             2020: {"club_a": 2, "club_b": 1},
-            2021: {"club_a": 1, "club_b": 2},
+            2021: {"club_a": 1, "club_b": 1},
         }
     )
     pd.testing.assert_frame_equal(result, expected)

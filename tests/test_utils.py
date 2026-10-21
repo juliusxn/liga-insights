@@ -6,6 +6,7 @@ from src.utils import (
     compute_running_average,
     compute_running_average_ranking,
     plot_average_points_by_season_rank,
+    plot_worst_event_place_by_final_rank,
 )
 
 
@@ -82,3 +83,36 @@ def test_compute_average_points_by_season_rank_aggregates_points_and_event_std(t
         ),
     )
     pd.testing.assert_frame_equal(result, expected)
+
+
+def test_plot_worst_event_place_by_final_rank_uses_short_club_names_and_final_rank_order(tmp_path):
+    data_dir = tmp_path / "data"
+    clubs = {
+        "club_a": {"short": "A", "color": "red"},
+        "club_b": {"short": "B", "color": "blue"},
+    }
+    manifest = {
+        "competition": {
+            league: {
+                "name": league,
+                "seasons": [{"year": 2020, "ranking_file": f"{league}/2020/season.json"}],
+            }
+            for league in ("league_1", "league_2")
+        }
+    }
+    for league in ("league_1", "league_2"):
+        result_file = data_dir / league / "2020" / "season.json"
+        result_file.parent.mkdir(parents=True, exist_ok=True)
+        result_file.write_text(
+            '{"club_b": {"events": [2, 4], "season": 2}, '
+            '"club_a": {"events": [3, 1], "season": 1}}',
+            encoding="utf-8",
+        )
+
+    fig, axes = plot_worst_event_place_by_final_rank(data_dir, manifest, clubs, 2020)
+
+    assert [tick.get_text() for tick in axes[0].get_xticklabels()] == ["A", "B"]
+    assert list(axes[0].patches[0].get_height() for _ in [0]) == [3]
+    assert list(axes[0].patches[1].get_height() for _ in [0]) == [4]
+    assert axes[0].get_ylabel() == "Worst event place"
+    fig.clear()

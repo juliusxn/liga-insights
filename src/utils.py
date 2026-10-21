@@ -162,6 +162,48 @@ def plot_average_points_by_season_rank(data_dir, manifest):
     return fig, axes
 
 
+def plot_worst_event_place_by_final_rank(data_dir, manifest, clubs, year):
+    """Plot each club's worst event place, ordered by its final rank."""
+    fig, axes = plt.subplots(2, 1, figsize=(14, 12), sharey=True)
+
+    for ax, league in zip(axes, ("league_1", "league_2")):
+        seasons = manifest["competition"][league]["seasons"]
+        try:
+            season = next(season for season in seasons if season["year"] == year)
+        except StopIteration as error:
+            raise ValueError(f"no season found for {league} in {year}") from error
+
+        with (data_dir / season["ranking_file"]).open(encoding="utf-8") as file:
+            ranking = json.load(file)
+
+        results = []
+        for club_id, result in ranking.items():
+            event_ranks = pd.to_numeric(_event_ranks(result), errors="coerce")
+            worst_event_place = event_ranks.max()
+            final_rank = pd.to_numeric(result["season"], errors="coerce")
+            if pd.notna(final_rank) and pd.notna(worst_event_place):
+                results.append((final_rank, club_id, worst_event_place))
+
+        results.sort(key=lambda result: (result[0], result[1]))
+        club_labels = [clubs[club_id]["short"] for _, club_id, _ in results]
+        worst_places = [worst_place for _, _, worst_place in results]
+        colors = [clubs[club_id]["color"] for _, club_id, _ in results]
+
+        ax.bar(club_labels, worst_places, color=colors)
+        ax.set_title(manifest["competition"][league]["name"] + f" {year}")
+        ax.set_ylabel("Worst event place")
+        ax.set_ylim(0.5, max(len(ranking), 1) + 0.5)
+        ax.set_yticks(np.arange(1, max(len(ranking), 1) + 1))
+        ax.invert_yaxis()
+        ax.grid(axis="y", alpha=0.3)
+        ax.tick_params(axis="x", rotation=45)
+
+    axes[-1].set_xlabel("Club")
+    fig.suptitle(f"Worst event place by final rank in {year}")
+    fig.tight_layout()
+    return fig, axes
+
+
 def plot_final_results(rank_df, clubs, years=None):
     fig, ax = plt.subplots(figsize=(14, 10))
     selected_rank_df = rank_df.loc[:, years] if years is not None else rank_df

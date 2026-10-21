@@ -1,199 +1,1279 @@
 {
     "BA018": {
         "events": [
-            2,
-            1,
-            6,
-            1,
-            1,
-            10
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 1
     },
     "B044": {
         "events": [
-            4,
-            2,
-            3,
-            6,
-            7,
-            1
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 2
     },
     "BA001": {
         "events": [
-            14,
-            3,
-            10,
-            3,
-            3,
-            5
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 3
     },
     "BA097": {
         "events": [
-            3,
-            4,
-            2,
-            2,
-            14,
-            14
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 4
     },
     "HA002": {
         "events": [
-            1,
-            12,
-            16,
-            9,
-            2,
-            4
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 5
     },
     "BA025": {
         "events": [
-            11,
-            5,
-            1,
-            7,
-            5,
-            15
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 6
     },
     "BA003": {
         "events": [
-            7,
-            14,
-            9,
-            8,
-            15,
-            6
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 7
     },
     "BW044": {
         "events": [
-            8,
-            7,
-            8,
-            17,
-            17,
-            3
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 8
     },
     "NW002": {
         "events": [
-            9,
-            11,
-            4,
-            18,
-            18,
-            2
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 9
     },
     "BW002": {
         "events": [
-            5,
-            10,
-            15,
-            4,
-            16,
-            12
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 10
     },
     "B041": {
         "events": [
-            10,
-            8,
-            12,
-            12,
-            13,
-            8
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 11
     },
     "BR016": {
         "events": [
-            15,
-            15,
-            14,
-            5,
-            8,
-            9
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 12
     },
     "B046": {
         "events": [
-            6,
-            13,
-            5,
-            13,
-            12,
-            17
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 13
     },
     "SH038": {
         "events": [
-            17,
-            9,
-            17,
-            14,
-            4,
-            7
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 14
     },
     "SH001": {
         "events": [
-            16,
-            6,
-            13,
-            10,
-            10,
-            16
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 15
     },
     "SH002": {
         "events": [
-            13,
-            17,
-            11,
-            15,
-            6,
-            11
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 16
     },
     "SH037": {
         "events": [
-            18,
-            16,
-            7,
-            16,
-            9,
-            13
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 17
     },
     "B120": {
         "events": [
-            12,
-            18,
-            18,
-            11,
-            11,
-            18
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 18
     }

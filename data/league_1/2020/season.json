@@ -1,181 +1,1081 @@
 {
     "HA002": {
         "events": [
-            4,
-            6,
-            2,
-            3,
-            1
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": "Florian HAUFE",
+                    "crew": [
+                        "David HEITZIG",
+                        "Dorian HEITZIG",
+                        "Miklas MEYER"
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": "Tobias SCHADEWALDT",
+                    "crew": [
+                        "Mitja MEYER",
+                        "Klaas HÖPCKE",
+                        "Hinnerk MÜLLER"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": "David CHAPMAN",
+                    "crew": [
+                        "Leon PASSLACK",
+                        "Florian THOELEN",
+                        "Dorian HEITZIG"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": "Tobias SCHADEWALDT",
+                    "crew": [
+                        "Johann KOHLHOFF",
+                        "Klaas HÖPCKE",
+                        "Hinnerk MÜLLER"
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 1
     },
     "SH198": {
         "events": [
-            1,
-            1,
-            15,
-            2,
-            4
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": "Magnus SIMON",
+                    "crew": [
+                        "Max SCHUBERTH",
+                        "Sören BRANDT",
+                        "Til BLECKNER"
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": "Magnus SIMON",
+                    "crew": [
+                        "Max SCHUBERTH",
+                        "Philipp SUDBRACK",
+                        "Til BLECKNER"
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": "Ole NIETIEDT",
+                    "crew": [
+                        "Bendix HEMPEL",
+                        "Silas OETTINGHAUS",
+                        "Max KLEINSORG"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": "Magnus SIMON",
+                    "crew": [
+                        "Max SCHUBERTH",
+                        "Philipp SUDBRACK",
+                        "Til BLECKNER"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": "Magnus SIMON",
+                    "crew": [
+                        "Max SCHUBERTH",
+                        "Philipp SUDBRACK",
+                        "Til BLECKNER"
+                    ]
+                }
+            }
         ],
         "season": 2
     },
     "B044": {
         "events": [
-            9,
-            8,
-            1,
-            12,
-            3
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": "Tim ELSNER",
+                    "crew": [
+                        "Elias ROTHE",
+                        "Max SALZWEDEL",
+                        "Carl NAUMANN"
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": "Felix HOFF",
+                    "crew": [
+                        "Phillip KASUESKE",
+                        "Max SALZWEDEL",
+                        "Carl NAUMANN"
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": "Fanny POPKEN",
+                    "crew": [
+                        "Jakob ROHNER",
+                        "Paul PROCHASKA",
+                        "Claus KROOS"
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": "Jasper WAGNER",
+                    "crew": [
+                        "Jakob ROHNER",
+                        "Max SALZWEDEL",
+                        "Felix BERGEMANN"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": "Jasper WAGNER",
+                    "crew": [
+                        "Elias ROTHE",
+                        "Jens STEINBORN",
+                        "Carl NAUMANN"
+                    ]
+                }
+            }
         ],
         "season": 3
     },
     "BW044": {
         "events": [
-            2,
-            2,
-            12,
-            13,
-            5
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": "Michael ZITTLAU",
+                    "crew": [
+                        "Sven HEßBERGER",
+                        "Aaron SCHERR",
+                        "Frederik SCHAAL"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": "Steffen HEßBERGER",
+                    "crew": [
+                        "Jan FRITZE",
+                        "Charlotta FRITZ",
+                        "Frederik SCHAAL"
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": "Tino MITTELMEIER",
+                    "crew": [
+                        "Dominic FRITZE",
+                        "Henrik SCHAAL",
+                        "Dominik WAIBEL"
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": "Michael ZITTLAU",
+                    "crew": [
+                        "Henrik SCHAAL",
+                        "Aaron SCHERR",
+                        "Alexander GAISER"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": "Steffen HEßBERGER",
+                    "crew": [
+                        "Niko MITTELMEIER",
+                        "Charlotta FRITZ",
+                        "Dominik WAIBEL"
+                    ]
+                }
+            }
         ],
         "season": 4
     },
     "BA025": {
         "events": [
-            7,
-            3,
-            7,
-            9,
-            9
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": "Leopold FRICKE",
+                    "crew": [
+                        "Christoph MÜLLER",
+                        "Moritz FRICKE",
+                        "Simon TRIPP"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": "Leopold FRICKE",
+                    "crew": [
+                        "Florian LAUTENSCHLAGER",
+                        "Moritz FRICKE",
+                        "Maximilian NOWAK"
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": "Leopold FRICKE",
+                    "crew": [
+                        "Moritz FRICKE",
+                        "Simon TRIPP",
+                        "Maximilian NOWAK"
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": "Leopold FRICKE",
+                    "crew": [
+                        "Moritz FRICKE",
+                        "Christoph MÜLLER",
+                        "Simon TRIPP"
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": "Leopold FRICKE",
+                    "crew": [
+                        "Maximilian NOWAK",
+                        "Moritz FRICKE",
+                        "Simon TRIPP"
+                    ]
+                }
+            }
         ],
         "season": 5
     },
     "B046": {
         "events": [
-            18,
-            5,
-            3,
-            4,
-            7
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": "Laurenz KAHL",
+                    "crew": [
+                        "Ann Zoe RIETHMEISTER",
+                        "Luise SCHOTT",
+                        "Nikolas WARMINSKI"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": "Philipp BRUHNS",
+                    "crew": [
+                        "Valentin GEBHARDT",
+                        "Philip RAABE",
+                        "Maximilian NICKEL"
+                    ]
+                }
+            },
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": "Philipp BRUHNS",
+                    "crew": [
+                        "Philip RAABE",
+                        "Valentin GEBHARDT",
+                        "Maximilian NICKEL"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 6
     },
     "BR016": {
         "events": [
-            3,
-            12,
-            4,
-            7,
-            11
+            {
+                "rank": 3,
+                "team": {
+                    "skipper": "Carsten KEMMLING",
+                    "crew": [
+                        "Eike MARTENS",
+                        "Markus MAISENBACHER",
+                        "Tjorben WITTOR"
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": "Jan SEEKAMP",
+                    "crew": [
+                        "Björn SCHÜTTE",
+                        "Jens TSCHENTSCHER",
+                        "Sven GAUTER"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": "Jan SEEKAMP",
+                    "crew": [
+                        "Jens TSCHENTSCHER",
+                        "Markus MAISENBACHER",
+                        "Tjorben WITTOR"
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": "Carsten KEMMLING",
+                    "crew": [
+                        "Eike MARTENS",
+                        "Daniel LABHART",
+                        "Tjorben WITTOR"
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 7
     },
     "BW002": {
         "events": [
-            5,
-            16,
-            5,
-            5,
-            15
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": "Simon DIESCH",
+                    "crew": [
+                        "Felix DIESCH",
+                        "Lukas AMMON",
+                        "Carlo SCHNETZ"
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": "Dennis MEHLIG",
+                    "crew": [
+                        "Yannick HAFNER",
+                        "Felix DIESCH",
+                        "Oliver MUNZ"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": "Dennis MEHLIG",
+                    "crew": [
+                        "Yannick HAFNER",
+                        "Conrad REBHOLZ",
+                        "Oliver MUNZ"
+                    ]
+                }
+            },
+            {
+                "rank": 5,
+                "team": {
+                    "skipper": "Simon DIESCH",
+                    "crew": [
+                        "Felix DIESCH",
+                        "Thomas STEMMER",
+                        "Marvin FRISCH"
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": "Dennis MEHLIG",
+                    "crew": [
+                        "Kevin MEHLIG",
+                        "Yannick HAFNER",
+                        "Lukas AMMON"
+                    ]
+                }
+            }
         ],
         "season": 8
     },
     "SH001": {
         "events": [
-            11,
-            10,
-            6,
-            8,
-            13
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": "Michael ILGENSTEIN",
+                    "crew": [
+                        "Tobias KONOW",
+                        "Cedric MENZEL",
+                        "Nils DREWNIOK"
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": "Michael ILGENSTEIN",
+                    "crew": [
+                        "Tobias KONOW",
+                        "Nils DREWNIOK",
+                        "Cedric MENZEL"
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": "Gordon NICKEL",
+                    "crew": [
+                        "Kirchhoff FABIAN",
+                        "Cedric MENZEL",
+                        "Florian JAKOBTORWEIHEN"
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": "Michael ILGENSTEIN",
+                    "crew": [
+                        "Nils DREWNIOK",
+                        "Cedric MENZEL",
+                        "Janik FELLMANN"
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 9
     },
     "BA003": {
         "events": [
-            12,
-            11,
-            14,
-            1,
-            12
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": "Isabell KNAUS",
+                    "crew": [
+                        "Valerie KNAUS",
+                        "Carina WEHR",
+                        "Karo DEICHL"
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": "Andi LACHENSCHMID",
+                    "crew": [
+                        "Alexa HAUSOTTER",
+                        "Jannik PÖHLMANN",
+                        "Isabell KNAUS"
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": "Manuel WUNDERLE",
+                    "crew": [
+                        "Julius NESZVECSKO",
+                        "Sebastian FRENZER",
+                        "Jannik PÖHLMANN"
+                    ]
+                }
+            },
+            {
+                "rank": 1,
+                "team": {
+                    "skipper": "Manuel WUNDERLE",
+                    "crew": [
+                        "Julius NESZVECSKO",
+                        "Sebastian FRENZER",
+                        "Jannik PÖHLMANN"
+                    ]
+                }
+            },
+            {
+                "rank": 12,
+                "team": {
+                    "skipper": "Maximilian ADAMI",
+                    "crew": [
+                        "Julius NESZVECSKO",
+                        "Fabian WUNDERLE",
+                        "Caro HEINE"
+                    ]
+                }
+            }
         ],
         "season": 10
     },
     "BA001": {
         "events": [
-            10,
-            14,
-            13,
-            11,
-            2
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": "Felix KAISER",
+                    "crew": [
+                        "Nils STERNBECK",
+                        "Jonas ROYLA",
+                        "Moriz FORSTER"
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": "Oliver OCZYCZ",
+                    "crew": [
+                        "Nils STERNBECK",
+                        "Jakob MEGGENDORFER",
+                        "Moriz FORSTER"
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": "Christian SCHÄFER",
+                    "crew": [
+                        "Andreas PLETTNER",
+                        "Raoul HERAEUS",
+                        "Adrian HOESCH"
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": "Felix KAISER",
+                    "crew": [
+                        "Nils STERNBECK",
+                        "Adrian HOESCH",
+                        "Leopold LINDNER"
+                    ]
+                }
+            },
+            {
+                "rank": 2,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 11
     },
     "BA018": {
         "events": [
-            16,
-            7,
-            10,
-            10,
-            8
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": "Theresa LOEFFLER",
+                    "crew": [
+                        "Simon GORGELS",
+                        "Dominik MUELLER",
+                        "Monika LINDER"
+                    ]
+                }
+            },
+            {
+                "rank": 7,
+                "team": {
+                    "skipper": "Patrick FOLLMANN",
+                    "crew": [
+                        "Felix RÖDER",
+                        "Laura FISCHER",
+                        "Tobias BOLDUAN"
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": "Julian STÜCKL",
+                    "crew": [
+                        "Lena STÜCKL",
+                        "Jakob ACHTERBERG",
+                        "Paul MOTHWURF"
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": "Julian STÜCKL",
+                    "crew": [
+                        "Maximilian WEIß",
+                        "Paul MOTHWURF",
+                        "Laura FISCHER"
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": "Julian STÜCKL",
+                    "crew": [
+                        "Jakob ACHTERBERG",
+                        "Paul MOTHWURF",
+                        "Theresa LOEFFLER"
+                    ]
+                }
+            }
         ],
         "season": 12
     },
     "SH007": {
         "events": [
-            8,
-            13,
-            9,
-            6,
-            17
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": "Nik Aaron WILLIM",
+                    "crew": [
+                        "Knud SCHRÖTER",
+                        "Timm SCHÖNING",
+                        "Luke WILLIM"
+                    ]
+                }
+            },
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": "Andreas WILLIM",
+                    "crew": [
+                        "Chris DR HARTKOPF",
+                        "Luke WILLIM",
+                        "Tore LASS"
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": "Andreas WILLIM",
+                    "crew": [
+                        "Suzanne WILLIM",
+                        "Knud SCHRÖTER",
+                        "Henning SOHN"
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": "Andreas WILLIM",
+                    "crew": [
+                        "Suzanne WILLIM",
+                        "Timm SCHÖNING",
+                        "Henning SOHN"
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": "Timm SCHÖNING",
+                    "crew": [
+                        "Knud SCHRÖTER",
+                        "Thomas KRUSE",
+                        "Finn SCHRÖTER"
+                    ]
+                }
+            }
         ],
         "season": 13
     },
     "HA005": {
         "events": [
-            14,
-            9,
-            11,
-            15,
-            6
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": "Lukas FEUERHERDT",
+                    "crew": [
+                        "Florian DZIESIATY",
+                        "Moritz KLINGENBERG",
+                        "Valentin ZELLER"
+                    ]
+                }
+            },
+            {
+                "rank": 9,
+                "team": {
+                    "skipper": "Lukas FEUERHERDT",
+                    "crew": [
+                        "Tobias FEUERHERDT",
+                        "Justus KELLNER",
+                        "Björn ATHMER"
+                    ]
+                }
+            },
+            {
+                "rank": 11,
+                "team": {
+                    "skipper": "Claas LEHMANN",
+                    "crew": [
+                        "Justus KELLNER",
+                        "Florian DZIESIATY",
+                        "Moritz KLINGENBERG"
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": "Lukas FEUERHERDT",
+                    "crew": [
+                        "Tobias FEUERHERDT",
+                        "Björn ATHMER",
+                        "Justus KELLNER"
+                    ]
+                }
+            },
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": "Claas LEHMANN",
+                    "crew": [
+                        "Constanze STOLZ",
+                        "Marc-Daniel MÄHLMANN",
+                        "Björn ATHMER"
+                    ]
+                }
+            }
         ],
         "season": 14
     },
     "NW002": {
         "events": [
-            6,
-            4,
-            18,
-            18,
-            18
+            {
+                "rank": 6,
+                "team": {
+                    "skipper": "Jan-Philipp HOFMANN",
+                    "crew": [
+                        "Patrick TREICHEL",
+                        "Alexander SWADE",
+                        "Hendrik LENZ"
+                    ]
+                }
+            },
+            {
+                "rank": 4,
+                "team": {
+                    "skipper": "Jan-Philipp HOFMANN",
+                    "crew": [
+                        "Patrick TREICHEL",
+                        "Alexander SWADE",
+                        "Hendrik LENZ"
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": "Julius SCHRADER",
+                    "crew": [
+                        "Christoph SWADE",
+                        "Alexander SWADE",
+                        "Philipp SCHRADER"
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": "Alexander SWADE",
+                    "crew": [
+                        "Patrick TREICHEL",
+                        "Nils-Henning HOFMANN",
+                        "Christoph SWADE"
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": "Jan-Philipp HOFMANN",
+                    "crew": [
+                        "Hendrik LENZ",
+                        "Alexander SWADE",
+                        "Christoph SWADE"
+                    ]
+                }
+            }
         ],
         "season": 15
     },
     "B049": {
         "events": [
-            17,
-            17,
-            8,
-            14,
-            14
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": "Erik WITZMANN",
+                    "crew": [
+                        "Moritz GREVING",
+                        "Daniel MAUTER",
+                        "Andreas WIENER"
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": "Erik WITZMANN",
+                    "crew": [
+                        "Wolfram KRAMER",
+                        "Daniel MAUTER",
+                        "Andreas WIENER"
+                    ]
+                }
+            },
+            {
+                "rank": 8,
+                "team": {
+                    "skipper": "Erik WITZMANN",
+                    "crew": [
+                        "Moritz GREVING",
+                        "Wolfram KRAMER",
+                        "Andreas WIENER"
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": "Erik WITZMANN",
+                    "crew": [
+                        "Wolfram KRAMER",
+                        "Daniel MAUTER",
+                        "Andreas WIENER"
+                    ]
+                }
+            },
+            {
+                "rank": 14,
+                "team": {
+                    "skipper": "Erik WITZMANN",
+                    "crew": [
+                        "Wolfram KRAMER",
+                        "Daniel MAUTER",
+                        "Andreas WIENER"
+                    ]
+                }
+            }
         ],
         "season": 16
     },
     "SH038": {
         "events": [
-            13,
-            18,
-            17,
-            17,
-            10
+            {
+                "rank": 13,
+                "team": {
+                    "skipper": "Malte STUDENT",
+                    "crew": [
+                        "Maximilian GEBHARD",
+                        "Hanno WEIMER",
+                        "John KÖRTNER"
+                    ]
+                }
+            },
+            {
+                "rank": 18,
+                "team": {
+                    "skipper": "Florian KEMPER",
+                    "crew": [
+                        "Moritz STUDENT",
+                        "Kevin BARCHE",
+                        "Bernhard MÜLLER"
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": "Florian KEMPER",
+                    "crew": [
+                        "Moritz STUDENT",
+                        "Kevin BARCHE",
+                        "Bernhard MÜLLER"
+                    ]
+                }
+            },
+            {
+                "rank": 17,
+                "team": {
+                    "skipper": "Michael FECHNER",
+                    "crew": [
+                        "Niclas KATH",
+                        "Hanno WEIMER",
+                        "Maximilian GEBHARD"
+                    ]
+                }
+            },
+            {
+                "rank": 10,
+                "team": {
+                    "skipper": "Johannes BABENDERERDE",
+                    "crew": [
+                        "Florian KEMPER",
+                        "Niclas KATH",
+                        "Bernhard MÜLLER"
+                    ]
+                }
+            }
         ],
         "season": 17
     },
     "B048": {
         "events": [
-            15,
-            15,
-            16,
-            16,
-            16
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": "Mike PRZYBYL",
+                    "crew": [
+                        "Moritz KAHL",
+                        "Paul POX",
+                        "Jens HARTWIG"
+                    ]
+                }
+            },
+            {
+                "rank": 15,
+                "team": {
+                    "skipper": "Frederick EICHHORST",
+                    "crew": [
+                        "Martin METZING",
+                        "Leonie EICHHORST",
+                        "Mike PRZYBYL"
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": "Mike PRZYBYL",
+                    "crew": [
+                        "Moritz KAHL",
+                        "Paul POX",
+                        "Sebastian FREYTAG"
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": "Mike PRZYBYL",
+                    "crew": [
+                        "Moritz KAHL",
+                        "Elias BÖTTGER",
+                        "Paul POX"
+                    ]
+                }
+            },
+            {
+                "rank": 16,
+                "team": {
+                    "skipper": null,
+                    "crew": [
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
         ],
         "season": 18
     }

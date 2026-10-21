@@ -41,6 +41,14 @@ def load_clubs(file_path):
     return clubs
 
 
+def _event_ranks(result):
+    """Return event ranks from legacy or team-enriched season data."""
+    events = result["events"]
+    if events and isinstance(events[0], dict):
+        return [event["rank"] for event in events]
+    return events
+
+
 def compute_ranking(data_dir, manifest):
     clubs = load_clubs(data_dir / manifest["clubs"])
     season_ranks = {}
@@ -89,7 +97,7 @@ def compute_average_points_by_season_rank(data_dir, manifest):
                 ranking = json.load(file)
 
             for result in ranking.values():
-                event_results = np.asarray(result["events"], dtype=float)
+                event_results = np.asarray(_event_ranks(result), dtype=float)
                 records.append(
                     {
                         "year": season["year"],
@@ -279,7 +287,9 @@ def plot_season(data_dir, manifest, clubs, year):
         with (data_dir / active_season["ranking_file"]).open() as f:
             ranking = json.load(f)
 
-        event_ranks = pd.DataFrame.from_dict(ranking, orient="index").loc[:, "events"].apply(pd.Series)
+        event_ranks = pd.DataFrame(
+            {club_id: _event_ranks(result) for club_id, result in ranking.items()}
+        ).T
         event_ranks.columns = np.arange(1, len(event_ranks.columns) + 1)
         running_average_ranks = event_ranks.T.expanding(min_periods=1).mean().T
         average_ax = ax.twinx()

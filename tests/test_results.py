@@ -53,7 +53,17 @@ def test_result_files_have_unique_places_per_event():
             with result_file.open(encoding="utf-8") as file:
                 results = json.load(file)
 
-            event_places = list(zip(*(club["events"] for club in results.values())))
+            event_places = list(
+                zip(
+                    *(
+                        [
+                            event["rank"] if isinstance(event, dict) else event
+                            for event in club["events"]
+                        ]
+                        for club in results.values()
+                    )
+                )
+            )
             for event_number, places in enumerate(event_places, start=1):
                 duplicate_places = {place for place in places if places.count(place) > 1}
                 assert not duplicate_places, (

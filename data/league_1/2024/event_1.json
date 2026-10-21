@@ -1,0 +1,139 @@
+{
+    "MV041": {
+        "skipper": "Johannes MACHUR",
+        "crew": [
+            "Leif MEYER",
+            "Laurenz HAGEN",
+            "Adrian HELBIG"
+        ]
+    },
+    "HA033": {
+        "skipper": "Jacob AHLERS",
+        "crew": [
+            "Till KRÜGER",
+            "Max WENTZEL",
+            "Benjamin AHLERS"
+        ]
+    },
+    "B004": {
+        "skipper": "Christoph CORNELIUS",
+        "crew": [
+            "Jannik GABRIEL",
+            "Oliver SZYMANSKI",
+            "Daniel SCHWARZE"
+        ]
+    },
+    "SH002": {
+        "skipper": "Kai BERTALLOT",
+        "crew": [
+            "Jaard PAULSEN",
+            "Jonas ROHWER",
+            "Berit BELLIN"
+        ]
+    },
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Svea WREDE",
+            "Ole HARDER",
+            "Livia de BOER"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "SH001": {
+        "skipper": "Thore KIESBYE",
+        "crew": [
+            "Carolin BECKMANN",
+            "Christopher SCHWAB",
+            "Finian BONHARDT"
+        ]
+    },
+    "B046": {
+        "skipper": "Felix BRACHTENDORF",
+        "crew": [
+            "Fabian GERSTMEIER",
+            "Charlotte GRAFFUNDER",
+            "Bruno CZYLWIK"
+        ]
+    },
+    "B044": {
+        "skipper": "Frederike WESTPHALEN",
+        "crew": [
+            "Julia VITEK",
+            "Sissi WENSEL",
+            "Sophie WENSEL",
+            "Anna KRÖMKE"
+        ]
+    },
+    "BW002": {
+        "skipper": "Dennis MEHLIG",
+        "crew": [
+            "Pia SPECKLE",
+            "Justin VENGER",
+            "Jakob GRUBER"
+        ]
+    },
+    "HA002": {
+        "skipper": "Julia KÜHN",
+        "crew": [
+            "Johann KOHLHOFF",
+            "Ferdinand PFUND",
+            "Miklas SCHAPER"
+        ]
+    },
+    "BA003": {
+        "skipper": "Isabella KNAUS",
+        "crew": [
+            "Valerie KNAUS",
+            "Carina WEHR",
+            "Karo DEICHL"
+        ]
+    },
+    "BW001": {
+        "skipper": "Finn KENTER",
+        "crew": [
+            "Julia KIRGIS",
+            "Alexandra LAUBER",
+            "Jonathan KOCH"
+        ]
+    },
+    "NW002": {
+        "skipper": "Alexander SWADE",
+        "crew": [
+            "Patrick TREICHEL",
+            "Julius SCHRADER",
+            "Philipp SCHRADER"
+        ]
+    },
+    "BA001": {
+        "skipper": "Kristian LENKMANN",
+        "crew": [
+            "Philip HALL",
+            "Oda HAUSMANN",
+            "Benjamin GLEICH"
+        ]
+    },
+    "BW044": {
+        "skipper": "Dominic FRITZE",
+        "crew": [
+            "Henrik SCHAAL",
+            "Jan FRITZE",
+            "Jann MÜLLER"
+        ]
+    },
+    "BW007": {
+        "skipper": "Nicolas KUTTER",
+        "crew": [
+            "Anton LÖWE",
+            "Dominik MAIER-RING",
+            "Johannes VOIGT"
+        ]
+    }
+}

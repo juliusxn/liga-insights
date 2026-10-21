@@ -1,0 +1,138 @@
+{
+    "NW070": {
+        "skipper": "Christoph MÖHRING",
+        "crew": [
+            "Julia WOEHL",
+            "Luka HEMING",
+            "Hannes GÖDDE"
+        ]
+    },
+    "SH001": {
+        "skipper": "Thore KIESBYE",
+        "crew": [
+            "Finian BOHNHARDT",
+            "Felicitas JUNG",
+            "Jacob MALTER"
+        ]
+    },
+    "BG058": {
+        "skipper": "Tobias KLABUNDE",
+        "crew": [
+            "Helge BOCHMANN",
+            "Dr Julius BOECKLER",
+            "Felix MOSEBACH"
+        ]
+    },
+    "HA072": {
+        "skipper": "Toto SCHÖNFELDT",
+        "crew": [
+            "Klaus STAMMERJOHANN",
+            "Steffen ACHENBACH",
+            "Sebastian WEINER"
+        ]
+    },
+    "SH036": {
+        "skipper": "Nick KÖSSLING",
+        "crew": [
+            "Henrik STRATMANN",
+            "Frederik SCHAT",
+            "Christian MAASS"
+        ]
+    },
+    "SH038": {
+        "skipper": "Bosse FAHRENKROG",
+        "crew": [
+            "Anouk ALT",
+            "Linn WELZEL",
+            "Hanning MAAß"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Jan MENSE",
+            "David KOCH"
+        ]
+    },
+    "HA079": {
+        "skipper": "Sofie TILLMANN",
+        "crew": [
+            "Livia SELEN",
+            "Leif PETERS",
+            "Leonard ORTH"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Kolja PAUS",
+            "Michael TENBENSEL",
+            "Jennifer JOST"
+        ]
+    },
+    "NW137": {
+        "skipper": "Maike ROOS",
+        "crew": [
+            "Maren ROOS",
+            "Morten ROOS",
+            "Aron ROOS"
+        ]
+    },
+    "B002": {
+        "skipper": "Sven TAUBE",
+        "crew": [
+            "Moritz MOLITOR von MÜHLFELD",
+            "Franka KOHMANN",
+            "Frederik KOHMANN"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Ben ZIMMERMANN",
+            "Konstantin von HOLTUM",
+            "Adrian WEICHSEL"
+        ]
+    },
+    "BA005": {
+        "skipper": "Armin ALTENA",
+        "crew": [
+            "Lukas BITTMANN",
+            "Lukas ROSS",
+            "Philipp ALTENA"
+        ]
+    },
+    "NW087": {
+        "skipper": "Julian BLUMENTHAL",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Tom KRELL",
+            "Ben KRELL"
+        ]
+    },
+    "BW002": {
+        "skipper": "Yannick HAFNER",
+        "crew": [
+            "Carlo SCHNETZ",
+            "Jakob GRUBER",
+            "Elias BENZ"
+        ]
+    },
+    "H001": {
+        "skipper": "Dmytro SUSHCHEVSKYI",
+        "crew": [
+            "Johannes LUH",
+            "Jens SCHIEBEL",
+            "Ann-Kathrin DÜBBERS"
+        ]
+    },
+    "SC030": {
+        "skipper": "Klaus BRINKBÄUMER",
+        "crew": [
+            "Leonhard HERRMANN",
+            "Julia SCHMIDT",
+            "Konstantin ROGGENKAMP"
+        ]
+    }
+}

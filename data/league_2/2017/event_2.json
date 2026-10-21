@@ -1,0 +1,146 @@
+{
+    "SH001": {
+        "skipper": "Michael ILGENSTEIN",
+        "crew": [
+            "Jörg ROTHERT",
+            "Tobias KONOW",
+            "Bernhard OUTZEN"
+        ]
+    },
+    "B120": {
+        "skipper": "Denni NAUJOCK",
+        "crew": [
+            "Hendrik FEDDERSEN",
+            "Welf REHBERG",
+            "Nils SCHRÖDER"
+        ]
+    },
+    "HA033": {
+        "skipper": "Jacob AHLERS",
+        "crew": [
+            "Benjamin AHLERS",
+            "Till KRÜGER",
+            "Finn OLSEN"
+        ]
+    },
+    "HA005": {
+        "skipper": "Max AUGUSTIN",
+        "crew": [
+            "Marc-Daniel MÄHLMANN",
+            "Lukas FEUERHERDT",
+            "Björn ATHMER"
+        ]
+    },
+    "SH140": {
+        "skipper": "Sören HADELER",
+        "crew": [
+            "Jan Hauke KÖLLER",
+            "Eike Henning BUCHMANN",
+            "Peer SCHICKEDANZ"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "SH036": {
+        "skipper": "Kim BRANDT",
+        "crew": [
+            "Janne SCHULT",
+            "Niklas REISENAUER",
+            "Stefan KÖSSLING"
+        ]
+    },
+    "BW007": {
+        "skipper": "Felix SCHRIMPER",
+        "crew": [
+            "Adrian MAIER RING",
+            "Dominic MAIER-RING",
+            "Noel BECK"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Luke WILLIM",
+            "Suzanne WILLIM",
+            "Henning SOHN"
+        ]
+    },
+    "HA072": {
+        "skipper": "Frank SCHÖNFELD",
+        "crew": [
+            "Tom GOSCH",
+            "Antje GOSCH",
+            "Matten JAETSCHKE"
+        ]
+    },
+    "MV041": {
+        "skipper": "Robert REMUS",
+        "crew": [
+            "Willy BRANDT",
+            "Gundram LEIFERT",
+            "Benjamin FRANKE"
+        ]
+    },
+    "B004": {
+        "skipper": "Cynthia SASSENROTH",
+        "crew": [
+            "Christoph CORNELIUS",
+            "Timo CHORROSCH",
+            "Georg GRAW"
+        ]
+    },
+    "NW190": {
+        "skipper": "Matthias van HOLT",
+        "crew": [
+            "Holger SCHMITT",
+            "Nikolaj ALLKEMPER",
+            "Kim HEDFELD"
+        ]
+    },
+    "NW057": {
+        "skipper": "Jan BORBET",
+        "crew": [
+            "Ann Kristin WEDEMEYER",
+            "Imke BROCKERHOFF",
+            "Paul DOCZYCK"
+        ]
+    },
+    "N001": {
+        "skipper": "Matthias WALLER",
+        "crew": [
+            "Magnus WALLER",
+            "Max WALLER",
+            "Nils ALBRECHT"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Matthias RIFFELER",
+            "Lutz HALFEN",
+            "Heiko RIFFELER"
+        ]
+    },
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Kai HARDER",
+            "Leon STOLP",
+            "Hinnerk MÜLLER"
+        ]
+    },
+    "BW001": {
+        "skipper": "Joseph POCHHAMMER",
+        "crew": [
+            "Matthias STEIDLE",
+            "Alexandra LAUBER",
+            "Jonathan KOCH"
+        ]
+    }
+}

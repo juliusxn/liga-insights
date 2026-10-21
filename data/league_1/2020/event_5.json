@@ -1,0 +1,130 @@
+{
+    "SH038": {
+        "skipper": "Johannes BABENDERERDE",
+        "crew": [
+            "Florian KEMPER",
+            "Niclas KATH",
+            "Bernhard MÜLLER"
+        ]
+    },
+    "BW002": {
+        "skipper": "Dennis MEHLIG",
+        "crew": [
+            "Kevin MEHLIG",
+            "Yannick HAFNER",
+            "Lukas AMMON"
+        ]
+    },
+    "HA002": {
+        "skipper": "Tobias SCHADEWALDT",
+        "crew": [
+            "Johann KOHLHOFF",
+            "Klaas HÖPCKE",
+            "Hinnerk MÜLLER"
+        ]
+    },
+    "BW044": {
+        "skipper": "Steffen HEßBERGER",
+        "crew": [
+            "Niko MITTELMEIER",
+            "Charlotta FRITZ",
+            "Dominik WAIBEL"
+        ]
+    },
+    "BA001": {
+        "skipper": "Felix KAISER",
+        "crew": [
+            "Nils STERNBECK",
+            "Adrian HOESCH",
+            "Leopold LINDNER"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "SH007": {
+        "skipper": "Timm SCHÖNING",
+        "crew": [
+            "Knud SCHRÖTER",
+            "Thomas KRUSE",
+            "Finn SCHRÖTER"
+        ]
+    },
+    "BA003": {
+        "skipper": "Maximilian ADAMI",
+        "crew": [
+            "Julius NESZVECSKO",
+            "Fabian WUNDERLE",
+            "Caro HEINE"
+        ]
+    },
+    "BR016": {
+        "skipper": "Carsten KEMMLING",
+        "crew": [
+            "Eike MARTENS",
+            "Daniel LABHART",
+            "Tjorben WITTOR"
+        ]
+    },
+    "B048": {
+        "skipper": "Mike PRZYBYL",
+        "crew": [
+            "Moritz KAHL",
+            "Elias BÖTTGER",
+            "Paul POX"
+        ]
+    },
+    "B044": {
+        "skipper": "Jasper WAGNER",
+        "crew": [
+            "Elias ROTHE",
+            "Jens STEINBORN",
+            "Carl NAUMANN"
+        ]
+    },
+    "NW002": {
+        "skipper": "Jan-Philipp HOFMANN",
+        "crew": [
+            "Hendrik LENZ",
+            "Alexander SWADE",
+            "Christoph SWADE"
+        ]
+    },
+    "BA025": {
+        "skipper": "Leopold FRICKE",
+        "crew": [
+            "Maximilian NOWAK",
+            "Moritz FRICKE",
+            "Simon TRIPP"
+        ]
+    },
+    "BA018": {
+        "skipper": "Julian STÜCKL",
+        "crew": [
+            "Jakob ACHTERBERG",
+            "Paul MOTHWURF",
+            "Theresa LOEFFLER"
+        ]
+    },
+    "SH198": {
+        "skipper": "Magnus SIMON",
+        "crew": [
+            "Max SCHUBERTH",
+            "Philipp SUDBRACK",
+            "Til BLECKNER"
+        ]
+    },
+    "HA005": {
+        "skipper": "Claas LEHMANN",
+        "crew": [
+            "Constanze STOLZ",
+            "Marc-Daniel MÄHLMANN",
+            "Björn ATHMER"
+        ]
+    }
+}

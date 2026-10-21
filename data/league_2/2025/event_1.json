@@ -1,0 +1,130 @@
+{
+    "SC030": {
+        "skipper": "Thaddäus RÖßLER",
+        "crew": [
+            "Klaus BRINKBÄUMER",
+            "Lena SCHOLZE",
+            "Felix SCHOLZE"
+        ]
+    },
+    "SH038": {
+        "skipper": "Bosse FAHRENKROG",
+        "crew": [
+            "Kilian FEINDT",
+            "Jasper GRUBE",
+            "Tjorven MELCHER"
+        ]
+    },
+    "B002": {
+        "skipper": "Franz ERPENBECK",
+        "crew": [
+            "Malvin RICHTER",
+            "Espen NOLTE",
+            "Frederik KOHMANN"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Kolja PAUS",
+            "Michael TENBENSEL",
+            "Jennifer JOST"
+        ]
+    },
+    "NW070": {
+        "skipper": "Christoph MÖHRING",
+        "crew": [
+            "Julia WOEHL",
+            "Henry FOCK",
+            "Hannes GÖDDE"
+        ]
+    },
+    "BG058": {
+        "skipper": "Felix MOSEBACH",
+        "crew": [
+            "Marc DÖRFEL",
+            "Moritz SCHÖNHERR",
+            "Max TEICHMANN"
+        ]
+    },
+    "NW137": {
+        "skipper": "Ronald ROOS",
+        "crew": [
+            "Maike ROOS",
+            "Maren ROOS",
+            "Julia ACHTERBERG"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Maximilian HARINGS",
+            "Patrick PULSKAMP"
+        ]
+    },
+    "HA072": {
+        "skipper": "Frank SCHÖNFELDT",
+        "crew": [
+            "Suse BERGMANN",
+            "Steffem ACHENBACH",
+            "Fritz SCHLOMKA"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Jan MENSE",
+            "David KOCH"
+        ]
+    },
+    "SH036": {
+        "skipper": "Justus SAUER",
+        "crew": [
+            "Finn LUKAS",
+            "Niklas REISENAUER",
+            "Frederik SCHAT"
+        ]
+    },
+    "SH001": {
+        "skipper": "Nele SÖKER",
+        "crew": [
+            "Jacob MALTER",
+            "Finian BOHNHARDT",
+            "Janik FELLMANN"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Josh BERKTOLD",
+            "Tienes ENGLERT",
+            "Lars CHRISTIANSEN"
+        ]
+    },
+    "BW002": {
+        "skipper": "Patrick KECK",
+        "crew": [
+            "Carlo SCHNETZ",
+            "Jakob GRUBER",
+            "Christoph WINKELHAUSEN"
+        ]
+    },
+    "H001": {
+        "skipper": "Dmytro SUSHCHEVSKYI",
+        "crew": [
+            "Martin SCHOLLMAYER",
+            "Jens SCHIEBEL",
+            "Falko BRAUN"
+        ]
+    },
+    "H005": {
+        "skipper": "Felix LAUKHARDT",
+        "crew": [
+            "Johanna HERDT",
+            "Florentin MUCHENBERGER",
+            "Maximilian SCHMID"
+        ]
+    }
+}

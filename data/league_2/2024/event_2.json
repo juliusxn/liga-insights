@@ -1,0 +1,114 @@
+{
+    "SH038": {
+        "skipper": "Henrik von SECK",
+        "crew": [
+            "Bosse FAHRENKROG",
+            "Maximilian GEBHARD",
+            "Jasper GRUBE"
+        ]
+    },
+    "N068": {
+        "skipper": "Daniel KIPP",
+        "crew": [
+            "Lars Niklas DIETZSCHOLD",
+            "Nora KNUEWER",
+            "Tillmann Richard SIMON"
+        ]
+    },
+    "NW137": {
+        "skipper": "Ronald ROOS",
+        "crew": [
+            "Maike ROOS",
+            "Morten ROOS",
+            "Aron ROOS"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Jan MENSE",
+            "David KOCH"
+        ]
+    },
+    "HA004": {
+        "skipper": "Christina SCHOBER",
+        "crew": [
+            "Bastian SEIBT",
+            "Sebastian WEINER",
+            "Jakob SCHWERMER"
+        ]
+    },
+    "SC030": {
+        "skipper": "Klaus BRINKBÄUMER",
+        "crew": [
+            "Felix SCHOLZE",
+            "Per-Christian SCHULTZE",
+            "Thaddäus RÖßLER"
+        ]
+    },
+    "SH036": {
+        "skipper": "Nick KÖSSLING",
+        "crew": [
+            "Niklas REISENAUER",
+            "Jöran ROHLF",
+            "Frederik SCHAT"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Felix PIECHOWIAK",
+            "Henrike GERMAR",
+            "Felicia MOELTZNER"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Ben ZIMMERMANN",
+            "Tienes ENGLERT",
+            "Lars CHRISTIANSEN"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Kolja PAUS",
+            "Jennifer JOST",
+            "Michael TENBENSEL"
+        ]
+    },
+    "HA072": {
+        "skipper": "Toto SCHÖNFELDT",
+        "crew": [
+            "Klaus STAMMERJOHANN",
+            "Fritz SCHLOMKA",
+            "Paul GOSCH"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Nils LEITERHOLT",
+            "Carolin JUNKER",
+            "Finn SZYMANSKI"
+        ]
+    },
+    "NW087": {
+        "skipper": "Julian BLUMENTHAL",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Tom KRELL",
+            "Patrick PULSKAMP"
+        ]
+    },
+    "B048": {
+        "skipper": "Mike PRZYBYL",
+        "crew": [
+            "Elias BÖTTGER",
+            "Paul ESTRADA-POX",
+            "Hannes PAPENTHIN"
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "BA001": {
+        "skipper": "Kristian LENKMANN",
+        "crew": [
+            "Philip HALL",
+            "Oda HAUSMANN",
+            "Ludwig GEISWEID"
+        ]
+    },
+    "BW044": {
+        "skipper": "Michael ZITTLAU",
+        "crew": [
+            "Alexander GAISER",
+            "Niko MITTELMEIER",
+            "Jann MÜLLER"
+        ]
+    },
+    "BG058": {
+        "skipper": "Christoph PAWLOWSKI-HEGERMANN",
+        "crew": [
+            "Julia BAUM",
+            "Maik SEIFERT",
+            "Marc DÖRFEL"
+        ]
+    },
+    "MV041": {
+        "skipper": "Johanna MEIER",
+        "crew": [
+            "Willy BRANDT",
+            "Benjamin FRANKE",
+            "Jana JAKOB"
+        ]
+    },
+    "SH001": {
+        "skipper": "Nicolas BARTH",
+        "crew": [
+            "Carolin BECKMANN",
+            "Jacob MALTER",
+            "Finian BOHNHARDT"
+        ]
+    },
+    "B004": {
+        "skipper": "Philipp MOULINE",
+        "crew": [
+            "Rupert STOREY",
+            "Jannik GABRIEL",
+            "Daniel SCHWARZE"
+        ]
+    },
+    "BW007": {
+        "skipper": "Bendix Piet MAYER",
+        "crew": [
+            "Jakob ZÜRN",
+            "Nils HOFFMANN",
+            "Jon STEINLEIN"
+        ]
+    },
+    "HA033": {
+        "skipper": "Max AUGUSTIN",
+        "crew": [
+            "Lynn HAFEMANN",
+            "Ole von STUDNITZ",
+            "Johanna BAUR"
+        ]
+    },
+    "SH037": {
+        "skipper": "Julian RAMM",
+        "crew": [
+            "Ole HARDER",
+            "Paula SCHÄLKE",
+            "Oliver LEWIN"
+        ]
+    },
+    "SH002": {
+        "skipper": "Lasse KAACK",
+        "crew": [
+            "Jaard PAULSEN",
+            "Berit BELLIN",
+            "Jonas ROHWER"
+        ]
+    },
+    "HA002": {
+        "skipper": "Julia KÜHN",
+        "crew": [
+            "Malte WINKEL",
+            "Malte PÄSLER",
+            "Henrik PETER"
+        ]
+    },
+    "B046": {
+        "skipper": "Christoph KEESE",
+        "crew": [
+            "Felix NICKEL",
+            "Laurenz KAHL",
+            "Yannick NETZBAND"
+        ]
+    },
+    "BW002": {
+        "skipper": "Patrick KECK",
+        "crew": [
+            "Lukas AMMON",
+            "Jakob GRUBER",
+            "Finn KLEIN"
+        ]
+    },
+    "BW001": {
+        "skipper": "Finn KENTER",
+        "crew": [
+            "Julia KIRGIS",
+            "Maximilian NOWAK",
+            "Daniel LABHART"
+        ]
+    },
+    "NW002": {
+        "skipper": "Alexander SWADE",
+        "crew": [
+            "Julius BRAUN-DULLAEUS",
+            "Tjorben STUDT",
+            "Hjalte STUDT"
+        ]
+    },
+    "B044": {
+        "skipper": "Frederik WESTPHALEN",
+        "crew": [
+            "Carolin SCHAAFF",
+            "Lukas FISCHER",
+            "Claus KROOS"
+        ]
+    },
+    "BA003": {
+        "skipper": "Zilas DUNKE",
+        "crew": [
+            "Jule ERNST",
+            "Julius NESZVECSKO",
+            "Sebastian FRENZER"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Thorben SCHLÜTER",
+            "Andreas WIENER",
+            "Nele Sophia WITZMANN"
+        ]
+    }
+}

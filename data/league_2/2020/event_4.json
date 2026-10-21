@@ -1,0 +1,114 @@
+{
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Michael TENBENSEL",
+            "Stefan SUNDARP",
+            "Kolja PAUS"
+        ]
+    },
+    "HA033": {
+        "skipper": "Till KRÜGER",
+        "crew": [
+            "Max AUGUSTIN",
+            "Ole von STUDNITZ",
+            "Finn OLSEN"
+        ]
+    },
+    "HA004": {
+        "skipper": "Silke BASEDOW",
+        "crew": [
+            "Juliane ZEPP",
+            "Kristina MAUS",
+            "Lea-Katharina WITT"
+        ]
+    },
+    "NW137": {
+        "skipper": "Ronald ROOS",
+        "crew": [
+            "Maike ROOS",
+            "Maren ROOS",
+            "Morten ROOS"
+        ]
+    },
+    "NW190": {
+        "skipper": "Hannah KNOPP",
+        "crew": [
+            "Paul KÜBEL",
+            "Kim HEDFELD",
+            "Alexander JANSEN"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Florian SCHLITTER",
+            "Paul WORRMANN",
+            "Felix PIECHOWIAK"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Jan SCHILLING",
+            "Heiko RIFFELER",
+            "Matthias RIFFELER"
+        ]
+    },
+    "SH037": {
+        "skipper": "Julian RAMM",
+        "crew": [
+            "Paula SCHÄLKE",
+            "Oliver LEWIN",
+            "Olé HARDER"
+        ]
+    },
+    "MV041": {
+        "skipper": "Johanna MEIER",
+        "crew": [
+            "Willy BRANDT",
+            "Hauke SPONHOLZ",
+            "Benjamin FRANKE"
+        ]
+    },
+    "SH002": {
+        "skipper": "Moritz PEITZNER",
+        "crew": [
+            "Noah PIOTRASCHKE",
+            "Niklas SCHUBERT",
+            "Anton LANTZIUS"
+        ]
+    },
+    "BW007": {
+        "skipper": "Felix SCHRIMPER",
+        "crew": [
+            "Johannes VOIGT",
+            "Albert GERSTMAIR",
+            "Wanja PIEPENSTOCK"
+        ]
+    },
+    "SH036": {
+        "skipper": "Sönke BOY",
+        "crew": [
+            "Ingo HÜTER",
+            "Christian MAAS",
+            "Justus SAUER"
+        ]
+    },
+    "NW039": {
+        "skipper": "Michael KREUTZMANN",
+        "crew": [
+            "Jannis NACKE",
+            "Daniel PLINKE",
+            "Justus TROMPETER"
+        ]
+    },
+    "HA007": {
+        "skipper": "Till POMARIUS",
+        "crew": [
+            "Ole WITTENBERG",
+            "Luise BOEHLICH",
+            "Kristin MERTNER"
+        ]
+    }
+}

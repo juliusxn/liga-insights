@@ -1,0 +1,134 @@
+{
+    "B041": {
+        "skipper": "Malte CHRISTOPHERSEN",
+        "crew": [
+            "Sebastian SALEIN",
+            "Thilo MERZ",
+            "Simon MERZ"
+        ]
+    },
+    "NW190": {
+        "skipper": "Paul KUEBEL",
+        "crew": [
+            "Johanna van HOLT",
+            "Ludwig BIETHAHN",
+            "Kim HEDFELD"
+        ]
+    },
+    "SH002": {
+        "skipper": "Moritz PEITZNER",
+        "crew": [
+            "Noah PIOTRASCHKE",
+            "Niklas SCHUBERT",
+            "Max RAMM"
+        ]
+    },
+    "N068": {
+        "skipper": "Daniel KIPP",
+        "crew": [
+            "Leonie RICHTER",
+            "Lars Niklas DIETZSCHOLD",
+            "Tillmann SIMON"
+        ]
+    },
+    "B048": {
+        "skipper": "Mike PRZYBYL",
+        "crew": [
+            "Moritz KAHL",
+            "Paul POX",
+            "Elias BÖTTGER"
+        ]
+    },
+    "SH036": {
+        "skipper": "Kim BRANDT",
+        "crew": []
+    },
+    "SH038": {
+        "skipper": "Johannes BABENDERERDE",
+        "crew": [
+            "Michael FECHNER",
+            "Leon OEHME",
+            "Hanning MAAß"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Johannes RÖSING",
+            "Michael TENBENSEL",
+            "Jan WANDERS"
+        ]
+    },
+    "NW002": {
+        "skipper": "Alexander SWADE",
+        "crew": [
+            "Patrick TREICHEL",
+            "Julius BRAUN-DULLAEUS",
+            "Philipp SCHRADER"
+        ]
+    },
+    "NW137": {
+        "skipper": "Ronald ROOS",
+        "crew": [
+            "Maike ROOS",
+            "Maren ROOS",
+            "Morten ROOS"
+        ]
+    },
+    "MV041": {
+        "skipper": "Johanna MEIER",
+        "crew": [
+            "Willy BRANDT",
+            "Jana JAKOB",
+            "Benjamin FRANKE"
+        ]
+    },
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Oliver LEWIN",
+            "Ole HARDER",
+            "Johanna Marie ANDRESEN"
+        ]
+    },
+    "HA004": {
+        "skipper": "Silke BASEDOW",
+        "crew": [
+            "Maren HAHLBROCK",
+            "Marion ROMMEL",
+            "Juliane ZEPP"
+        ]
+    },
+    "BG058": {
+        "skipper": "Christoph PAWLOWSKI-HEGERMANN",
+        "crew": [
+            "Tobias KLABUNDE",
+            "Maik SEIFERT",
+            "Felix MOSEBACH"
+        ]
+    },
+    "NW039": {
+        "skipper": "Lennard RISKOP",
+        "crew": [
+            "Christian KREUTZMANN",
+            "Justus TROMPETER",
+            "Luis TROMPETER"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Carolin JUNKER",
+            "Vincent SCHRADER",
+            "Moritz DAHM"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Moritz GREVING",
+            "Wolfram KRAMER",
+            "Andreas WIENER"
+        ]
+    }
+}

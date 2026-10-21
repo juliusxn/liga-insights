@@ -1,0 +1,130 @@
+{
+    "BW044": {
+        "skipper": "Michael ZITTLAU",
+        "crew": [
+            "Alexander GAISER",
+            "Jann MÜLLER",
+            "Maximilian PFANNKUCH"
+        ]
+    },
+    "HA033": {
+        "skipper": "Max AUGUSTIN",
+        "crew": [
+            "Lynn HAFEMANN",
+            "Matteo WOLGAST",
+            "Johanna BAUR"
+        ]
+    },
+    "NW002": {
+        "skipper": "Jan-Philipp HOFMANN",
+        "crew": [
+            "Nils-Henning HOFMANN",
+            "Timon TREICHEL",
+            "Henrike LEITL"
+        ]
+    },
+    "BA003": {
+        "skipper": "Xaver HUBER",
+        "crew": [
+            "Florian KRAUß",
+            "Anton SATTLER",
+            "Beni HAIMERL"
+        ]
+    },
+    "BW001": {
+        "skipper": "Finn KENTER",
+        "crew": [
+            "Maximilian NOWAK",
+            "Jonathan KOCH",
+            "Daniel LABHART"
+        ]
+    },
+    "BA001": {
+        "skipper": "Kristian LENKMANN",
+        "crew": [
+            "Philip HALL",
+            "Oda HAUSMANN",
+            "Ludwig GEISWEID"
+        ]
+    },
+    "BW007": {
+        "skipper": "Nicolas KUTTER",
+        "crew": [
+            "Anton LÖWE",
+            "Alexander KUTTER",
+            "Boris GERAY"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Florian SCHLITTER",
+            "Jacob ALEKIAN",
+            "Felicia MOELTZNER"
+        ]
+    },
+    "B004": {
+        "skipper": "Nicolas THIERSE",
+        "crew": [
+            "Jannik GABRIEL",
+            "Rupert STOREY",
+            "Daniel SCHWARZE"
+        ]
+    },
+    "B046": {
+        "skipper": "Bruno CZYLWIK",
+        "crew": [
+            "Laurenz ODENBREIT",
+            "Hannah WEGGÄSSER",
+            "Christoph KEESE"
+        ]
+    },
+    "MV041": {
+        "skipper": "Johannes MACHUR",
+        "crew": [
+            "Jakob PORTHUN",
+            "Laurenz HAGEN",
+            "Paul ARP"
+        ]
+    },
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Lea BAUR",
+            "Moritz BURMESTER",
+            "Anjola ERNST"
+        ]
+    },
+    "B049": {
+        "skipper": "Fabian LEMMEL",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "SH002": {
+        "skipper": "Kai BERTALLOT",
+        "crew": [
+            "Paul KÜBEL",
+            "Niklas SCHUBERT",
+            "Jonas ROHWER"
+        ]
+    },
+    "B044": {
+        "skipper": "Fanny POPKEN",
+        "crew": [
+            "Jakob ROHNER",
+            "Paul PROCHASKA",
+            "Claus KROOS"
+        ]
+    },
+    "HA002": {
+        "skipper": "Tobias SCHADEWALDT",
+        "crew": [
+            "Julia KÜHN",
+            "Luisa KRÜGER",
+            "Ferdinand PFUND"
+        ]
+    }
+}

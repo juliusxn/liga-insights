@@ -1,0 +1,138 @@
+{
+    "H005": {
+        "skipper": "Jan KLOCKE VÁZQUEZ",
+        "crew": [
+            "Florentin MUCHENBERGER",
+            "Christoph DAMM",
+            "Carl HERRMANN"
+        ]
+    },
+    "SH036": {
+        "skipper": "Daniel KIPP",
+        "crew": [
+            "Finn LUKAS",
+            "Niklas REISENAUER",
+            "Christian MAASS"
+        ]
+    },
+    "SH038": {
+        "skipper": "Bosse FAHRENKROG",
+        "crew": [
+            "Linn WELZEL",
+            "Linus RIEGER",
+            "Till VIETOR"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Clara TROMMER",
+            "David KOCH"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Daniel MAUTER",
+            "Henning JAEGER",
+            "Colin LIEBIG"
+        ]
+    },
+    "H001": {
+        "skipper": "Alexander CROSS",
+        "crew": [
+            "Falko BRAUN",
+            "Jens SCHIEBEL",
+            "Johannes LUH"
+        ]
+    },
+    "HA028": {
+        "skipper": "Mika TROSIEN",
+        "crew": [
+            "Paul ARP",
+            "Adrian HELBIG",
+            "Luca LEIDHOLDT"
+        ]
+    },
+    "NW087": {
+        "skipper": "Julian BLUMENTHAL",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Maximilian HARINGS",
+            "Patrick PULSKAMP"
+        ]
+    },
+    "BW007": {
+        "skipper": "Bendix Piet MAYER",
+        "crew": [
+            "Schnils HOFFMANN",
+            "Jakob ZÜRN",
+            "Nicolas KUTTER"
+        ]
+    },
+    "B044": {
+        "skipper": "Frederike WESTPHALEN",
+        "crew": [
+            "Paula Maria LEPA",
+            "Carolin SCHAAFF",
+            "Anna KRÖMKE"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Leonard von HOLTUM",
+            "Tienes ENGLERT",
+            "Josh BERKTOLD"
+        ]
+    },
+    "NW070": {
+        "skipper": "Christoph MÖHRING",
+        "crew": [
+            "Amir HEINISCH",
+            "Merle WIEBE",
+            "Hannes GÖDDE"
+        ]
+    },
+    "HA004": {
+        "skipper": "Bernadette ZIPFEL",
+        "crew": [
+            "Anna RUPP",
+            "Karla DÖRFFLER",
+            "Silke BASEDOW"
+        ]
+    },
+    "BG058": {
+        "skipper": "Helge BOCHMANN",
+        "crew": [
+            "Marc DÖRFEL",
+            "Tim FIELITZ",
+            "Max TEICHMANN"
+        ]
+    },
+    "HA079": {
+        "skipper": "Livia SELEN",
+        "crew": [
+            "Nina ERBACH",
+            "Leonard KNOTTNERUS-MEYER",
+            "Elive LUDWIG"
+        ]
+    },
+    "BA005": {
+        "skipper": "Armin ALTENA",
+        "crew": [
+            "Philipp ALTENA",
+            "Carla HAGEN",
+            "Mathi LENKMANN"
+        ]
+    },
+    "SH001": {
+        "skipper": "Nele SÖKER",
+        "crew": [
+            "Jannik FELLMANN",
+            "Thore KIESBYE",
+            "Finian BOHNHARDT"
+        ]
+    }
+}

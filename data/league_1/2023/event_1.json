@@ -1,0 +1,114 @@
+{
+    "HA033": {
+        "skipper": "Magnus SIMON",
+        "crew": [
+            "Till KRÜGER",
+            "Matteo WOLGAST",
+            "Benjamin AHLERS"
+        ]
+    },
+    "MV041": {
+        "skipper": "Johanna MEIER",
+        "crew": [
+            "Willy BRANDT",
+            "Jana JAKOB",
+            "Benjamin FRANKE"
+        ]
+    },
+    "B044": {
+        "skipper": "Frederike WESTPHALEN",
+        "crew": [
+            "Chiara STEINMÜLLER",
+            "Max SALZWEDEL",
+            "Julian RUHNKE"
+        ]
+    },
+    "BW001": {
+        "skipper": "Jonathan STEIDLE",
+        "crew": [
+            "Matthias STEIDLE",
+            "Joerg MUNCK",
+            "Marc FUNKEN"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Suzanne WILLIM",
+            "Rob Dean WILLIM",
+            "Luke WILLIM"
+        ]
+    },
+    "SH001": {
+        "skipper": "Matthias van HOLT",
+        "crew": [
+            "Nils DREWNIOK",
+            "Christopher SCHWAB",
+            "Cedric MENZEL"
+        ]
+    },
+    "BA003": {
+        "skipper": "Andi LACHENSCHMID",
+        "crew": [
+            "Julius NESZVECSKO",
+            "Anton SATTLER",
+            "Ole ULRICH"
+        ]
+    },
+    "HA002": {
+        "skipper": "Leon PASSLACK",
+        "crew": [
+            "Julia KÜHN",
+            "Florian THOELEN",
+            "Ferdinand PFUND"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "BG058": {
+        "skipper": "Christoph PAWLOWSKI-HEGERMANN",
+        "crew": [
+            "Tobias KLABUNDE",
+            "Maik SEIFERT",
+            "Felix MOSEBACH"
+        ]
+    },
+    "NW002": {
+        "skipper": "Julius SCHRADER",
+        "crew": [
+            "Patrick TREICHEL",
+            "Julius BRAUN-DULLAEUS",
+            "Philipp SCHRADER"
+        ]
+    },
+    "BA025": {
+        "skipper": "Florian KRAUß",
+        "crew": [
+            "Raphael LORENZ",
+            "Maximilian NOWAK",
+            "Maximilian POSNER"
+        ]
+    },
+    "BW007": {
+        "skipper": "Bendix Piet MAYER",
+        "crew": [
+            "Jakob ZÜRN",
+            "Nils HOFFMANN",
+            "Nicolas KUTTER"
+        ]
+    },
+    "BW002": {
+        "skipper": "Yannick HAFNER",
+        "crew": [
+            "Carlo SCHNETZ",
+            "Jakob GRUBER",
+            "Patrick KECK"
+        ]
+    }
+}

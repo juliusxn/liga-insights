@@ -1,0 +1,130 @@
+{
+    "B004": {
+        "skipper": "Christoph CORNELIUS",
+        "crew": [
+            "Oliver SZYMANSKI",
+            "Daniel SCHWARZE",
+            "Jannik GABRIEL"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Erik SCHULZ",
+            "Henrike GERMAR",
+            "Paul WORRMANN"
+        ]
+    },
+    "NW155": {
+        "skipper": "Kolja PAUS",
+        "crew": [
+            "Johannes RÖSING",
+            "Anne HENGSTERMANN",
+            "Jennifer JOST"
+        ]
+    },
+    "SH036": {
+        "skipper": "Justus SAUER",
+        "crew": [
+            "Finn LUKAS",
+            "Julian VÖLTER",
+            "Johannes SIROCKO"
+        ]
+    },
+    "SH037": {
+        "skipper": "Julian RAMM",
+        "crew": [
+            "Lea BAUR",
+            "Oliver LEWIN",
+            "Ole HARDER"
+        ]
+    },
+    "NW087": {
+        "skipper": "Julian BLUMENTHAL",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Maximilian HARINGS",
+            "Ben KRELL"
+        ]
+    },
+    "R003": {
+        "skipper": "Lena ABENDROTH",
+        "crew": [
+            "Carl HERRMANN",
+            "Hannah FISCHER",
+            "Janne HANDERMANN"
+        ]
+    },
+    "BA001": {
+        "skipper": "Luis TARABOCHIA",
+        "crew": [
+            "Philip HALL",
+            "Franziska STEINLEIN",
+            "Ludwig GEISWEID"
+        ]
+    },
+    "SH038": {
+        "skipper": "Henrik von SECK",
+        "crew": [
+            "Bosse FAHRENKROG",
+            "Maximilian GEBHARD",
+            "Bernhard MÜLLER"
+        ]
+    },
+    "HA079": {
+        "skipper": "Grégoire PEVERELLI",
+        "crew": [
+            "Livia SELEN",
+            "Raimund RECK",
+            "Leonard ORTH"
+        ]
+    },
+    "HA005": {
+        "skipper": "Mika TROSIEN",
+        "crew": [
+            "Aike BRAJE",
+            "Svea WREDE",
+            "Linus DÖPP"
+        ]
+    },
+    "NW039": {
+        "skipper": "Lennard RISKOP",
+        "crew": [
+            "Justus TROMPETER",
+            "Tim GRÖGER",
+            "Paul RISKOP"
+        ]
+    },
+    "HA072": {
+        "skipper": "Michelle MEISTER",
+        "crew": [
+            "Stephan MEISTER",
+            "Phillip SEMMER",
+            "Sten HOEPFNER"
+        ]
+    },
+    "B048": {
+        "skipper": "Bernado LOW-BEER",
+        "crew": [
+            "Elias BÖTTGER",
+            "Luisa CONROY",
+            "Allesandro SANTUZ"
+        ]
+    },
+    "SH002": {
+        "skipper": "Moritz PEITZNER",
+        "crew": [
+            "Noah Lee PIOTRASCHKE",
+            "Berit BELLIN",
+            "Anton LANTZIUS"
+        ]
+    },
+    "NW024": {
+        "skipper": "Felix BRACHTENDORF",
+        "crew": [
+            "Moritz PICKER",
+            "Moritz FRANKHOF",
+            "Isabel MATHEA"
+        ]
+    }
+}

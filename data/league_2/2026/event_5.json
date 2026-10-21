@@ -1,0 +1,130 @@
+{
+    "SH036": {
+        "skipper": "Finn LUKAS",
+        "crew": [
+            "Jöran ROHLF",
+            "Niklas REISENAUER",
+            "Frederik SCHAT"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Andreas WIENER",
+            "Wolfram KRAMER",
+            "Colin LIEBIG"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Tom KRELL",
+            "Ben KRELL"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Colleen HECK",
+            "Tienes ENGLERT",
+            "Josh BERKTOLD"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Jan MENSE",
+            "David KOCH"
+        ]
+    },
+    "NW070": {
+        "skipper": "Christoph MÖHRING",
+        "crew": [
+            "Julia WOEHL",
+            "Crispin BODENHAUSEN",
+            "Hannes GÖDDE"
+        ]
+    },
+    "SH001": {
+        "skipper": "Nicolas BARTH",
+        "crew": [
+            "Matz FINTZEN",
+            "Birte BERGER",
+            "Jacob MALTER"
+        ]
+    },
+    "H005": {
+        "skipper": "Felix LAUKHARD",
+        "crew": [
+            "Stefan OETKEN",
+            "Johanna HERDT",
+            "Carl HERRMANN"
+        ]
+    },
+    "HA079": {
+        "skipper": "Raimund RECK",
+        "crew": [
+            "Nina ERBACH",
+            "Jan VESTER",
+            "Nikhil ROY"
+        ]
+    },
+    "BW007": {
+        "skipper": "Bendix Piet MAYER",
+        "crew": [
+            "Rinn AMELIE",
+            "Schnils HOFFMANN",
+            "Jakob ZÜRN"
+        ]
+    },
+    "HA028": {
+        "skipper": "Johannes MACHUR",
+        "crew": [
+            "Leif MEYER",
+            "Adrian HELBIG",
+            "Eric WERNER"
+        ]
+    },
+    "H001": {
+        "skipper": "Alexander CROSS",
+        "crew": [
+            "Falko BRAUN",
+            "Jens SCHIEBEL",
+            "Johannes LUH"
+        ]
+    },
+    "BA005": {
+        "skipper": "Armin ALTENA",
+        "crew": [
+            "Philipp ALTENA",
+            "Lukas BITTMANN",
+            "Claas GEBAUER"
+        ]
+    },
+    "BG058": {
+        "skipper": "Tobias KLABUNDE",
+        "crew": [
+            "Dr Julius BOECKLER",
+            "Maik SEIFERT",
+            "Felix MOSEBACH"
+        ]
+    },
+    "B044": {
+        "skipper": "Catharina SCHAAF",
+        "crew": [
+            "Linda HENSEL",
+            "Carolin SCHAAFF",
+            "Lenny SCHULZE"
+        ]
+    },
+    "HA004": {
+        "skipper": "Mats KRÜSS",
+        "crew": [
+            "Florian PRINZLIN",
+            "Florian DEUTSCHBEIN",
+            "Anna RUPP"
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Lea BAUR",
+            "Ole HARDER",
+            "Paula SCHÄLKE"
+        ]
+    },
+    "BA001": {
+        "skipper": "Kristian LENKMANN",
+        "crew": [
+            "Philip HALL",
+            "Oda HAUSMANN",
+            "Ludwig GEISWEID"
+        ]
+    },
+    "B046": {
+        "skipper": "Philipp BRUHNS",
+        "crew": [
+            "Valentin GEBHARDT",
+            "Charlotte GRAFUNDER",
+            "Laurenz KAHL"
+        ]
+    },
+    "NW002": {
+        "skipper": "Kai-Steffen HOFMANN",
+        "crew": [
+            "Alexander SWADE",
+            "Maximilian BÜSCHER",
+            "Hendrik LENZ"
+        ]
+    },
+    "B044": {
+        "skipper": "Jasper WAGNER",
+        "crew": [
+            "Elias ROTHE",
+            "Yannek WLOCH",
+            "Carl NAUMANN"
+        ]
+    },
+    "SH001": {
+        "skipper": "Thore KIESBYE",
+        "crew": [
+            "Nele SÖKER",
+            "Finian BOHNHARDT",
+            "Christopher SCHWAB"
+        ]
+    },
+    "HA005": {
+        "skipper": "Lukas FEUERHERDT",
+        "crew": [
+            "Tobias FEUERHERDT",
+            "Tom STRYI",
+            "Morten RAECKE"
+        ]
+    },
+    "BR016": {
+        "skipper": "Jan SEEKAMP",
+        "crew": [
+            "Eike MARTENS",
+            "Jens TSCHENTSCHER",
+            "Daniel LABHART"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Rob Dean WILLIM",
+            "Knud SCHRÖTER",
+            "Luke WILLIM"
+        ]
+    },
+    "HA002": {
+        "skipper": "Tobias SCHADEWALDT",
+        "crew": [
+            "Daniel REICHART",
+            "Miklas SCHAPER",
+            "Hinnerk MÜLLER"
+        ]
+    },
+    "BW002": {
+        "skipper": "Conrad REBHOLZ",
+        "crew": [
+            "Felix DIESCH",
+            "Carlo SCHNETZ",
+            "Lukas AMMON"
+        ]
+    },
+    "B004": {
+        "skipper": "Daniel FROST",
+        "crew": [
+            "Philipp MOULINE",
+            "Daniel SCHWARZE",
+            "Christoph CORNELIUS"
+        ]
+    },
+    "HA033": {
+        "skipper": "Jacob AHLERS",
+        "crew": [
+            "Laura Bo VOSS",
+            "Benjamin AHLERS",
+            "Max WENTZEL"
+        ]
+    },
+    "BW044": {
+        "skipper": "Frederik SCHAAL",
+        "crew": [
+            "Alexander GAISER",
+            "Niko MITTELMEIER",
+            "Dominic FRITZE"
+        ]
+    },
+    "BW001": {
+        "skipper": "Konstantin STEIDLE",
+        "crew": [
+            "Julia KIRGIS",
+            "Joerg MUNCK",
+            "Marc FUNKEN"
+        ]
+    },
+    "BA003": {
+        "skipper": "Isabell KNAUS",
+        "crew": [
+            "Valerie KNAUS",
+            "Carina WEHR",
+            "Clara BORLINGHAUS"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Henning JAEGER",
+            "Wolfram KRAMER",
+            "Andreas WIENER"
+        ]
+    },
+    "HA004": {
+        "skipper": "Silke BASEDOW",
+        "crew": [
+            "Juliane ZEPP",
+            "Maren HAHLBROCK",
+            "Lea BEELE"
+        ]
+    }
+}

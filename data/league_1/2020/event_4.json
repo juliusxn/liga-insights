@@ -1,0 +1,130 @@
+{
+    "SH198": {
+        "skipper": "Magnus SIMON",
+        "crew": [
+            "Max SCHUBERTH",
+            "Philipp SUDBRACK",
+            "Til BLECKNER"
+        ]
+    },
+    "HA005": {
+        "skipper": "Lukas FEUERHERDT",
+        "crew": [
+            "Tobias FEUERHERDT",
+            "Björn ATHMER",
+            "Justus KELLNER"
+        ]
+    },
+    "NW002": {
+        "skipper": "Alexander SWADE",
+        "crew": [
+            "Patrick TREICHEL",
+            "Nils-Henning HOFMANN",
+            "Christoph SWADE"
+        ]
+    },
+    "B046": {
+        "skipper": "Philipp BRUHNS",
+        "crew": [
+            "Philip RAABE",
+            "Valentin GEBHARDT",
+            "Maximilian NICKEL"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Suzanne WILLIM",
+            "Timm SCHÖNING",
+            "Henning SOHN"
+        ]
+    },
+    "BW044": {
+        "skipper": "Michael ZITTLAU",
+        "crew": [
+            "Henrik SCHAAL",
+            "Aaron SCHERR",
+            "Alexander GAISER"
+        ]
+    },
+    "BA003": {
+        "skipper": "Manuel WUNDERLE",
+        "crew": [
+            "Julius NESZVECSKO",
+            "Sebastian FRENZER",
+            "Jannik PÖHLMANN"
+        ]
+    },
+    "BA001": {
+        "skipper": "Christian SCHÄFER",
+        "crew": [
+            "Andreas PLETTNER",
+            "Raoul HERAEUS",
+            "Adrian HOESCH"
+        ]
+    },
+    "SH001": {
+        "skipper": "Michael ILGENSTEIN",
+        "crew": [
+            "Nils DREWNIOK",
+            "Cedric MENZEL",
+            "Janik FELLMANN"
+        ]
+    },
+    "BW002": {
+        "skipper": "Simon DIESCH",
+        "crew": [
+            "Felix DIESCH",
+            "Thomas STEMMER",
+            "Marvin FRISCH"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "B048": {
+        "skipper": "Mike PRZYBYL",
+        "crew": [
+            "Moritz KAHL",
+            "Paul POX",
+            "Sebastian FREYTAG"
+        ]
+    },
+    "SH038": {
+        "skipper": "Michael FECHNER",
+        "crew": [
+            "Niclas KATH",
+            "Hanno WEIMER",
+            "Maximilian GEBHARD"
+        ]
+    },
+    "BA025": {
+        "skipper": "Leopold FRICKE",
+        "crew": [
+            "Moritz FRICKE",
+            "Christoph MÜLLER",
+            "Simon TRIPP"
+        ]
+    },
+    "BA018": {
+        "skipper": "Julian STÜCKL",
+        "crew": [
+            "Maximilian WEIß",
+            "Paul MOTHWURF",
+            "Laura FISCHER"
+        ]
+    },
+    "B044": {
+        "skipper": "Jasper WAGNER",
+        "crew": [
+            "Jakob ROHNER",
+            "Max SALZWEDEL",
+            "Felix BERGEMANN"
+        ]
+    }
+}

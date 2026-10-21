@@ -1,0 +1,146 @@
+{
+    "NW039": {
+        "skipper": "Lennard RISKOP",
+        "crew": [
+            "Jannis NACKE",
+            "Thomas RÖßLER",
+            "Lena ABENDROTH"
+        ]
+    },
+    "SH038": {
+        "skipper": "Henrik von SECK",
+        "crew": [
+            "Linn WELZEL",
+            "Kilian FEINDT",
+            "Jonathan ALHEID"
+        ]
+    },
+    "NW087": {
+        "skipper": "Julian BLUMENTHAL",
+        "crew": [
+            "Maximilian HARINGS",
+            "Ben KRELL",
+            "Tom KRELL"
+        ]
+    },
+    "NW137": {
+        "skipper": "Maike ROOS",
+        "crew": [
+            "Kirsten ROOS",
+            "Maren ROOS",
+            "Julia ACHTERBERG"
+        ]
+    },
+    "NW155": {
+        "skipper": "Kolja PAUS",
+        "crew": [
+            "Jennifer JOST",
+            "Johannes RÖSING",
+            "Anne HENGSTERMANN"
+        ]
+    },
+    "HA079": {
+        "skipper": "Raimund RECK",
+        "crew": [
+            "Anne GENES",
+            "Jan VESTER",
+            "Elive LUDWIG"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Jan MENSE",
+            "David KOCH"
+        ]
+    },
+    "HA004": {
+        "skipper": "Joscha MUDRACK",
+        "crew": [
+            "Lukas ALTENBACH",
+            "Anna RUPP",
+            "Lion ICKERT"
+        ]
+    },
+    "HA072": {
+        "skipper": "Christian KELLNER",
+        "crew": [
+            "Fritz SCHLOMKA",
+            "Klaus STAMMERJOHANN",
+            "Patrick BUSCHOR-MARCEL"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Jacob ALEKIAN",
+            "Henrike GERMAR",
+            "Felix PIECHOWIAK"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Simon KLUSCH",
+            "Johanna KLUSCH",
+            "Konstantin von HOLTUM"
+        ]
+    },
+    "B048": {
+        "skipper": "Cosima SCHLÜTER",
+        "crew": [
+            "Line WOLTERS",
+            "Elias BÖTTGER",
+            "Flora von WALDOW"
+        ]
+    },
+    "HA028": {
+        "skipper": "Ole SCHMIDT",
+        "crew": [
+            "Evelyn ENGELMANN",
+            "Jana SCHERBARTH",
+            "Christian BENZ"
+        ]
+    },
+    "SC030": {
+        "skipper": "Thaddäus RÖßLER",
+        "crew": [
+            "Klaus BRINKBÄUMER",
+            "Leonhard HERRMANN",
+            "Per-Christian SCHULTZE"
+        ]
+    },
+    "N068": {
+        "skipper": "Julia WOEHL",
+        "crew": [
+            "Lars Niklas DIETZSCHOLD",
+            "Julian SURMA",
+            "Nora KNUEWER"
+        ]
+    },
+    "HA005": {
+        "skipper": "Lukas FEUERHERDT",
+        "crew": [
+            "Siri SEGGER",
+            "Tom STRYI",
+            "Pippa SÖRENSEN"
+        ]
+    },
+    "SH036": {
+        "skipper": "Justus SAUER",
+        "crew": [
+            "Finn LUKAS",
+            "Julian VÖLTER",
+            "Johannes SIROCKO"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Finn SZYMANSKI",
+            "Carolin JUNKER",
+            "Nils LEITERHOLT"
+        ]
+    }
+}

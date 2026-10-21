@@ -1,0 +1,148 @@
+{
+    "BA015": {
+        "skipper": "Andi LACHENSCHMID",
+        "crew": [
+            "Johanna LEMBCKE",
+            "Robert VETTER",
+            "Michael POINTNER"
+        ]
+    },
+    "NW190": {
+        "skipper": "Matthias van HOLT",
+        "crew": [
+            "Kim HEDFELD",
+            "Jens HEDFELD",
+            "Paul KÜBEL"
+        ]
+    },
+    "BW007": {
+        "skipper": "Felix SCHRIMPER",
+        "crew": [
+            "Carolin SCHRIMPER",
+            "Dominik MAIER-RING",
+            "Sebastian UECKER"
+        ]
+    },
+    "B004": {
+        "skipper": "Felix LEUPOLD",
+        "crew": [
+            "Timo CHORROSCH",
+            "Christoph CORNELIUS",
+            "Oliver SZYMANSKI"
+        ]
+    },
+    "BW001": {
+        "skipper": "Matthias STEIDLE",
+        "crew": [
+            "Alexandra LAUBER",
+            "Joseph POCHHAMMER",
+            "Jonathan KOCH"
+        ]
+    },
+    "SH036": {
+        "skipper": "Kim BRANDT",
+        "crew": [
+            "Kim BRANDT",
+            "Justus SAUER",
+            "Mirco JACOBS",
+            "Ingo HÜTER"
+        ]
+    },
+    "SH013": {
+        "skipper": "Charlotte BRAUN-DULLAEUS",
+        "crew": [
+            "Henrik BIERMANN",
+            "Terje KLOCKEMANN",
+            "Tobias STRENGE"
+        ]
+    },
+    "NW083": {
+        "skipper": "Ruediger MARGALE",
+        "crew": [
+            "Ulf WEIGT",
+            "Peter BECHSTEIN",
+            "Georg ROBASZKIEWICZ"
+        ]
+    },
+    "HA004": {
+        "skipper": "Silke BASEDOW",
+        "crew": [
+            "Maren HAHLBROCK",
+            "Luisa KRÜGER",
+            "Anke LUKOSCH",
+            "Charlotte HENKEL"
+        ]
+    },
+    "B048": {
+        "skipper": "Mike PRZYBYL",
+        "crew": [
+            "Julius ADOMEIT",
+            "Moritz KAHL",
+            "Sebastian FREYTAG"
+        ]
+    },
+    "HA033": {
+        "skipper": "Till KRÜGER",
+        "crew": [
+            "Lynn HAFEMANN",
+            "Ole von STUDNITZ",
+            "Lasse SCZCEPANIAK"
+        ]
+    },
+    "SH140": {
+        "skipper": "Sören HADELER",
+        "crew": [
+            "Jan Hauke KÖLLER",
+            "Ole BURFEIND",
+            "Anique HADELER"
+        ]
+    },
+    "B120": {
+        "skipper": "Denni NAUJOCK",
+        "crew": [
+            "Nils SCHRÖDER",
+            "Welf REHBERG",
+            "Hendrik FEDDERSEN"
+        ]
+    },
+    "SH038": {
+        "skipper": "Malte STUDENT",
+        "crew": [
+            "Maximilian GEBHARD",
+            "Hanno WEIMER",
+            "Benjamin MEYER"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Henning SOHN",
+            "Luke WILLIM",
+            "Knud SCHRÖTER"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "MV007": {
+        "skipper": "Fabian PYKA",
+        "crew": [
+            "Christian KLOSS",
+            "Timo PYKA",
+            "Toni BARNER"
+        ]
+    },
+    "MV008": {
+        "skipper": "Stefan WENZEL",
+        "crew": [
+            "Torsten HAVERLAND",
+            "Gregor SCHUCHARDT",
+            "André KEIL"
+        ]
+    }
+}

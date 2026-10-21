@@ -1,0 +1,146 @@
+{
+    "BA001": {
+        "skipper": "Nils STERNBECK",
+        "crew": [
+            "Lina PLETTNER",
+            "Moriz FORSTER",
+            "Benjamin GLEICH"
+        ]
+    },
+    "B048": {
+        "skipper": "Mike PRZYBYL",
+        "crew": [
+            "Elias BÖTTGER",
+            "Paul ESTRADA-POX",
+            "Hannes PAPENTHIN"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Conrad JACOB",
+            "Carolin JUNKER",
+            "Jürgen RADEMACHER"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Kolja PAUS",
+            "Johannes RÖSING",
+            "Michael TENBENSEL"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Matthias RIFFELER",
+            "Patrick PULSKAMP",
+            "Maximilian HARINGS"
+        ]
+    },
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Lea BAUR",
+            "Paula SCHÄLKE",
+            "Grete BOSKAMP"
+        ]
+    },
+    "NW137": {
+        "skipper": "Ronald ROOS",
+        "crew": [
+            "Maike ROOS",
+            "Morten ROOS",
+            "Hermann FRANC"
+        ]
+    },
+    "NW039": {
+        "skipper": "Lennard RISKOP",
+        "crew": [
+            "Luis TROMPETER",
+            "Justus TROMPETER",
+            "Max SCHALL"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul WORRMANN",
+        "crew": [
+            "Erik SCHULZ",
+            "Henrike GERMAR",
+            "Felix PIECHOWIAK"
+        ]
+    },
+    "B004": {
+        "skipper": "Oliver SZYMANSKI",
+        "crew": [
+            "Jannik GABRIEL",
+            "Christopher BEY",
+            "Rupert STOREY"
+        ]
+    },
+    "NW024": {
+        "skipper": "Felix BRACHTENDORF",
+        "crew": [
+            "Moritz PICKER",
+            "Roxane FLACHSENBERG",
+            "Friederike KLEY"
+        ]
+    },
+    "SH036": {
+        "skipper": "Justus SAUER",
+        "crew": [
+            "Niklas REISENAUER",
+            "Nick KÖSSLING",
+            "Frederik SCHAT"
+        ]
+    },
+    "SH038": {
+        "skipper": "Finn SCHÜTT",
+        "crew": [
+            "Niclas KATH",
+            "Kilian FEINDT",
+            "Julius STAAB"
+        ]
+    },
+    "SH002": {
+        "skipper": "Lasse KAACK",
+        "crew": [
+            "Noah PIOTRASCHKE",
+            "Jonathan KNOTTNERUS-MEYER",
+            "Jonas ROHWER"
+        ]
+    },
+    "HA079": {
+        "skipper": "Grégoire PEVERELLI",
+        "crew": [
+            "Pia DROEGE",
+            "Leonard KNOTTNERUS-MEYER",
+            "Leonard ORTH"
+        ]
+    },
+    "R003": {
+        "skipper": "Lena ABENDROTH",
+        "crew": [
+            "Christoph WEIDEMANN",
+            "Julia FISCHER",
+            "Janne HANDERMANN"
+        ]
+    },
+    "HA072": {
+        "skipper": "Frank SCHÖNFELDT",
+        "crew": [
+            "Urs WIHLFAHRT",
+            "Fritz SCHLOMKA",
+            "Suse BERGMANN"
+        ]
+    },
+    "HA005": {
+        "skipper": "Lukas FEUERHERDT",
+        "crew": [
+            "Florian DZIESIATY",
+            "Aike BRAJE",
+            "Björn ATHMER"
+        ]
+    }
+}

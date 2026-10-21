@@ -1,0 +1,130 @@
+{
+    "B002": {
+        "skipper": "Franz ERPENBECK",
+        "crew": [
+            "Leo WENNING",
+            "Malvin RICHTER",
+            "Espen NOLTE"
+        ]
+    },
+    "HA072": {
+        "skipper": "Carsten KEMMLING",
+        "crew": [
+            "Toto SCHÖNFELDT",
+            "Sebastian WEINER",
+            "Urs WIHLFAHRT"
+        ]
+    },
+    "SH038": {
+        "skipper": "Bosse FAHRENKROG",
+        "crew": [
+            "Linn WELZEL",
+            "Kilian FEINDT",
+            "Jonathan ALHEID"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Kolja PAUS",
+            "Johannes RÖSING",
+            "Michael TENBENSEL"
+        ]
+    },
+    "BW002": {
+        "skipper": "Christoph WINKELHAUSEN",
+        "crew": [
+            "Patrick KECK",
+            "Carlo SCHNETZ",
+            "Jakob GRUBER"
+        ]
+    },
+    "SH001": {
+        "skipper": "Nicolas BARTH",
+        "crew": [
+            "Valentin FERNANDEZ",
+            "Carolin BECKMANN",
+            "Felicitas JUNG"
+        ]
+    },
+    "NW070": {
+        "skipper": "Christoph MÖHRING",
+        "crew": [
+            "Amir HEINISCH",
+            "Julia WOEHL",
+            "Hannes GÖDDE"
+        ]
+    },
+    "HA079": {
+        "skipper": "Nina ERBACH",
+        "crew": [
+            "Moritz von WEIDENBACH",
+            "Lorenz SCHUWERACK",
+            "Jan VESTER"
+        ]
+    },
+    "NW137": {
+        "skipper": "Silas RECK",
+        "crew": [
+            "Maike ROOS",
+            "Maren ROOS",
+            "Julia ACHTERBERG"
+        ]
+    },
+    "SC030": {
+        "skipper": "Thaddäus RÖßLER",
+        "crew": [
+            "Louis BRETTSCHNEIDER",
+            "Felix SCHOLZE",
+            "Lena SCHOLZE"
+        ]
+    },
+    "H001": {
+        "skipper": "Falko BRAUN",
+        "crew": [
+            "Ann-Kathrin DÜBBERS",
+            "Jens SCHIEBEL",
+            "Martin SCHOLLMAYER"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Maximilian HARINGS",
+            "Tom KRELL",
+            "Ben KRELL"
+        ]
+    },
+    "NW024": {
+        "skipper": "Stefan MEIER",
+        "crew": [
+            "Colleen HECK",
+            "Tienes ENGLERT",
+            "Konstantin von HOLTUM"
+        ]
+    },
+    "BG058": {
+        "skipper": "Helge BOCHMANN",
+        "crew": [
+            "Marc DÖRFEL",
+            "Maik SEIFERT",
+            "Felix MOSEBACH"
+        ]
+    },
+    "SC038": {
+        "skipper": "Marvin HAMM",
+        "crew": [
+            "Mieke KLEIN",
+            "Jan MENSE",
+            "David KOCH"
+        ]
+    },
+    "SH036": {
+        "skipper": "Justus SAUER",
+        "crew": [
+            "Finn LUKAS",
+            "Jöran ROHLF",
+            "Conrad BARTELS"
+        ]
+    }
+}

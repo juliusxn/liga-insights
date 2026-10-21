@@ -1,0 +1,146 @@
+{
+    "BA001": {
+        "skipper": "Kristian LENKMANN",
+        "crew": [
+            "Philip HALL",
+            "Moriz FORSTER",
+            "Benjamin GLEICH"
+        ]
+    },
+    "NW024": {
+        "skipper": "Nike FLACHSENBERG",
+        "crew": [
+            "Moritz PICKER",
+            "Moritz FRANKHOF",
+            "Friederike KLEY"
+        ]
+    },
+    "HA072": {
+        "skipper": "Toto SCHÖNFELDT",
+        "crew": [
+            "Bine LENKMANN",
+            "Klaus STAMMERJOHANN",
+            "Suse BERGMANN"
+        ]
+    },
+    "B004": {
+        "skipper": "Christoph CORNELIUS",
+        "crew": [
+            "Daniel SCHWARZE",
+            "Jannik GABRIEL",
+            "Oliver SZYMANSKI"
+        ]
+    },
+    "SH002": {
+        "skipper": "Kai BERTALLOT",
+        "crew": [
+            "Jaard PAULSEN",
+            "Berit BELLIN",
+            "Jonas ROHWER"
+        ]
+    },
+    "HA079": {
+        "skipper": "Johann TOLKMITT",
+        "crew": [
+            "Nina ERBACH",
+            "Pia DROEGE",
+            "Lorenz SCHUWERACK"
+        ]
+    },
+    "NW039": {
+        "skipper": "Tobias SCHRAGE",
+        "crew": [
+            "Sertel SEN",
+            "Olaf SCHRAGE",
+            "Johann SCHRAGE"
+        ]
+    },
+    "NW137": {
+        "skipper": "Maike ROOS",
+        "crew": [
+            "Maren ROOS",
+            "Morten ROOS",
+            "Silas RECK"
+        ]
+    },
+    "SH038": {
+        "skipper": "Henrik von SECK",
+        "crew": [
+            "Kilian FEINDT",
+            "Sven KLATT",
+            "Julius STAAB"
+        ]
+    },
+    "HA005": {
+        "skipper": "Lukas FEUERHERDT",
+        "crew": [
+            "Moritz KLINGENBERG",
+            "Svea WREDE",
+            "Aike BRAJE"
+        ]
+    },
+    "SH036": {
+        "skipper": "Sönke BOY",
+        "crew": [
+            "Niklas REISENAUER",
+            "Finn LUKAS",
+            "Julian VÖLTER"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul WORRMANN",
+        "crew": [
+            "Florian SCHLITTER",
+            "Henrike GERMAR",
+            "Felicia MOELTZNER"
+        ]
+    },
+    "SH037": {
+        "skipper": "Christian SOYKA",
+        "crew": [
+            "Kim BRANDT",
+            "Ole HARDER",
+            "Moritz BURMESTER"
+        ]
+    },
+    "NW155": {
+        "skipper": "Kolja PAUS",
+        "crew": [
+            "Anne HENGSTERMANN",
+            "Johannes RÖSING",
+            "Michael TENBENSEL"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Lars SCHAFMEISTER",
+            "Maximilian HARINGS",
+            "Patrick PULSKAMP"
+        ]
+    },
+    "B048": {
+        "skipper": "Bernado LOW-BEER",
+        "crew": [
+            "Line WOLTERS",
+            "Merlin FRIEDRICH",
+            "Hannes PAPENTHIN"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Holger NEUHAUS",
+            "Arne WITTEMER",
+            "Finn SZYMANSKI"
+        ]
+    },
+    "R003": {
+        "skipper": "Lena ABENDROTH",
+        "crew": [
+            "Hannah FISCHER",
+            "Janne HANDERMANN",
+            "Christoph WEIDEMANN"
+        ]
+    }
+}

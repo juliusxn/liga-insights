@@ -1,0 +1,131 @@
+{
+    "SH036": {
+        "skipper": "Sönke BOY",
+        "crew": [
+            "Niklas REISENAUER",
+            "Janne SCHULT",
+            "Julian VÖLTER"
+        ]
+    },
+    "NW155": {
+        "skipper": "Thorsten WILLEMSEN",
+        "crew": [
+            "Kolja PAUS",
+            "Johannes RÖSING",
+            "Michael TENBENSEL"
+        ]
+    },
+    "NW137": {
+        "skipper": "Ronald ROOS",
+        "crew": [
+            "Maike ROOS",
+            "Morten ROOS",
+            "Aron ROOS"
+        ]
+    },
+    "SH002": {
+        "skipper": "Lasse KAACK",
+        "crew": [
+            "Paul ARP",
+            "Jona KNOTTERUS-MEYER",
+            "Luca LEIDHOLDT"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Matthias RIFFELER",
+            "Maximilian HARINGS",
+            "Heiko RIFFELER"
+        ]
+    },
+    "BG058": {
+        "skipper": "Christoph PAWLOWSKI-HEGERMANN",
+        "crew": [
+            "Tobias KLABUNDE",
+            "Maik SIEFERT",
+            "Felix MOSEBACH"
+        ]
+    },
+    "NW039": {
+        "skipper": "Lennard RISKOP",
+        "crew": [
+            "Jannis NACKE",
+            "Tim GRÖGER",
+            "Luis TROMPETER"
+        ]
+    },
+    "NW024": {
+        "skipper": "Line Marrit HAMANN",
+        "crew": [
+            "Stefan MEIER",
+            "Moritz FRANKHOF",
+            "Isabel MATHEA"
+        ]
+    },
+    "HA072": {
+        "skipper": "Julia KÜHN",
+        "crew": [
+            "Rainmund RECK",
+            "Leon ORTH",
+            "Jan VESTER"
+        ]
+    },
+    "MV041": {
+        "skipper": "Matthes WAACK",
+        "crew": [
+            "Willy BRANDT",
+            "Laurenz HAGEN",
+            "Adrian HELBIG"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Henrike GERMAR",
+            "Jacob ALEKIAN",
+            "Felix PIECHOWIAK"
+        ]
+    },
+    "HA028": {
+        "skipper": "Jan Morten SEVECKE",
+        "crew": [
+            "Matthias DÜWEL",
+            "Maximilian JENTSCH",
+            "Johanna HERBST"
+        ]
+    },
+    "N068": {
+        "skipper": "Daniel KIPP",
+        "crew": [
+            "Julia WOEHL",
+            "Tillmann SIMON",
+            "Julian SURMA"
+        ]
+    },
+    "HA098": {
+        "skipper": "Anna LIENAU",
+        "crew": [
+            "Geeske GENRICH",
+            "Klara STUMPF",
+            "Melanie LUTHER",
+            "Mieke KLEIN"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Carolin JUNKER",
+            "Finn SZYMANSKI",
+            "Conrad JACOB"
+        ]
+    },
+    "BA025": {
+        "skipper": "Florian KRAUß",
+        "crew": [
+            "Nicolas KRAUß",
+            "Jannis SÜMMCHEN",
+            "Maximilian NOWAK"
+        ]
+    }
+}

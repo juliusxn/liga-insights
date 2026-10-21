@@ -1,0 +1,146 @@
+{
+    "BA025": {
+        "skipper": "Christoph GLASER",
+        "crew": [
+            "Florian KRAUß",
+            "Jannis SÜMMCHEN",
+            "Maximilian NOWAK"
+        ]
+    },
+    "NW002": {
+        "skipper": "Jan-Philipp HOFMANN",
+        "crew": [
+            "Felix BROCKERHOFF",
+            "Nils-Henning HOFMANN",
+            "Philipp SCHRADER"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Suzanne WILLIM",
+            "Henning SOHN",
+            "Luke WILLIM"
+        ]
+    },
+    "HA002": {
+        "skipper": "Florian HAUFE",
+        "crew": [
+            "David HEITZIG",
+            "Miklas MEYER",
+            "Dorian HEITZIG"
+        ]
+    },
+    "NW190": {
+        "skipper": "Jens OPALKA",
+        "crew": [
+            "Hannah KNOPP",
+            "Ludwig BIETHAHN",
+            "Johanna van HOLT"
+        ]
+    },
+    "B044": {
+        "skipper": "Jasper WAGNER",
+        "crew": [
+            "Elias ROTHE",
+            "Jens STEINBORN",
+            "Carl NAUMANN"
+        ]
+    },
+    "BA018": {
+        "skipper": "Julian STÜCKL",
+        "crew": [
+            "Sebastian BUEHLER",
+            "Felix RÖDER",
+            "Marco TARABOCHIA"
+        ]
+    },
+    "BR016": {
+        "skipper": "Jan SEEKAMP",
+        "crew": [
+            "Björn SCHÜTTE",
+            "Jens TSCHENTSCHER",
+            "Tjorben WITTOR"
+        ]
+    },
+    "BA001": {
+        "skipper": "Julian AUTENRIETH",
+        "crew": [
+            "Maximilian HIBLER",
+            "Eisenlohr FABIAN",
+            "Oliver OCZYCZ"
+        ]
+    },
+    "HA033": {
+        "skipper": "Till KRÜGER",
+        "crew": [
+            "Max AUGUSTIN",
+            "Benjamin AHLERS",
+            "Ole von STUDNITZ"
+        ]
+    },
+    "B041": {
+        "skipper": "Felix PIECHOWIAK",
+        "crew": [
+            "Paul OST",
+            "Jacob ALEKIAN",
+            "Paul WORRMANN"
+        ]
+    },
+    "BW002": {
+        "skipper": "Max RIEGER",
+        "crew": [
+            "Felix DIESCH",
+            "Marvin FRISCH",
+            "Moritz RIEGER"
+        ]
+    },
+    "BA003": {
+        "skipper": "Isabell KNAUS",
+        "crew": [
+            "Valerie KNAUS",
+            "Carina WEHR",
+            "Karo DEICHL"
+        ]
+    },
+    "BW044": {
+        "skipper": "Steffen HEßBERGER",
+        "crew": [
+            "Charlotta FRITZ",
+            "Frederik SCHAAL",
+            "Aaron SCHERR"
+        ]
+    },
+    "B046": {
+        "skipper": "Philipp BRUHNS",
+        "crew": [
+            "Valentin GEBHARDT",
+            "Nikolas WARMINSKI",
+            "Maximilian NICKEL"
+        ]
+    },
+    "SH001": {
+        "skipper": "Michael ILGENSTEIN",
+        "crew": [
+            "Nils DREWNIOK",
+            "Tobias KONOW",
+            "Cedric MENZEL"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "BR022": {
+        "skipper": "Gordon NICKEL",
+        "crew": [
+            "Lisa SCHÄLKE",
+            "Björn BEILKEN",
+            "Morten NICKEL"
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "HA002": {
+        "skipper": "David CHAPMAN",
+        "crew": [
+            "Leon PASSLACK",
+            "Florian THOELEN",
+            "Dorian HEITZIG"
+        ]
+    },
+    "BA025": {
+        "skipper": "Leopold FRICKE",
+        "crew": [
+            "Moritz FRICKE",
+            "Simon TRIPP",
+            "Maximilian NOWAK"
+        ]
+    },
+    "SH038": {
+        "skipper": "Florian KEMPER",
+        "crew": [
+            "Moritz STUDENT",
+            "Kevin BARCHE",
+            "Bernhard MÜLLER"
+        ]
+    },
+    "SH001": {
+        "skipper": "Gordon NICKEL",
+        "crew": [
+            "Kirchhoff FABIAN",
+            "Cedric MENZEL",
+            "Florian JAKOBTORWEIHEN"
+        ]
+    },
+    "BW044": {
+        "skipper": "Tino MITTELMEIER",
+        "crew": [
+            "Dominic FRITZE",
+            "Henrik SCHAAL",
+            "Dominik WAIBEL"
+        ]
+    },
+    "BR016": {
+        "skipper": "Jan SEEKAMP",
+        "crew": [
+            "Jens TSCHENTSCHER",
+            "Markus MAISENBACHER",
+            "Tjorben WITTOR"
+        ]
+    },
+    "BA003": {
+        "skipper": "Manuel WUNDERLE",
+        "crew": [
+            "Julius NESZVECSKO",
+            "Sebastian FRENZER",
+            "Jannik PÖHLMANN"
+        ]
+    },
+    "B044": {
+        "skipper": "Fanny POPKEN",
+        "crew": [
+            "Jakob ROHNER",
+            "Paul PROCHASKA",
+            "Claus KROOS"
+        ]
+    },
+    "BA018": {
+        "skipper": "Julian STÜCKL",
+        "crew": [
+            "Lena STÜCKL",
+            "Jakob ACHTERBERG",
+            "Paul MOTHWURF"
+        ]
+    },
+    "NW002": {
+        "skipper": "Julius SCHRADER",
+        "crew": [
+            "Christoph SWADE",
+            "Alexander SWADE",
+            "Philipp SCHRADER"
+        ]
+    },
+    "SH007": {
+        "skipper": "Andreas WILLIM",
+        "crew": [
+            "Suzanne WILLIM",
+            "Knud SCHRÖTER",
+            "Henning SOHN"
+        ]
+    },
+    "SH198": {
+        "skipper": "Ole NIETIEDT",
+        "crew": [
+            "Bendix HEMPEL",
+            "Silas OETTINGHAUS",
+            "Max KLEINSORG"
+        ]
+    },
+    "BW002": {
+        "skipper": "Dennis MEHLIG",
+        "crew": [
+            "Yannick HAFNER",
+            "Conrad REBHOLZ",
+            "Oliver MUNZ"
+        ]
+    },
+    "HA005": {
+        "skipper": "Claas LEHMANN",
+        "crew": [
+            "Justus KELLNER",
+            "Florian DZIESIATY",
+            "Moritz KLINGENBERG"
+        ]
+    },
+    "B049": {
+        "skipper": "Erik WITZMANN",
+        "crew": [
+            "Moritz GREVING",
+            "Wolfram KRAMER",
+            "Andreas WIENER"
+        ]
+    }
+}

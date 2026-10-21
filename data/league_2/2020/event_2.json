@@ -1,0 +1,114 @@
+{
+    "HA007": {
+        "skipper": "Till POMARIUS",
+        "crew": [
+            "Ole WITTENBERG",
+            "Christian WARNECKE",
+            "Carlotta MEEWES"
+        ]
+    },
+    "BW001": {
+        "skipper": "Jonathan STEIDLE",
+        "crew": [
+            "Marc FUNKEN",
+            "Alexandra LAUBER",
+            "Patrick HASSE"
+        ]
+    },
+    "B004": {
+        "skipper": "Christoph CORNELIUS",
+        "crew": [
+            "Cynthia SASSENROTH",
+            "Oliver SZYMANSKI",
+            "Daniel SCHWARZE"
+        ]
+    },
+    "SH002": {
+        "skipper": "Lasse KAACK",
+        "crew": [
+            "Noah PIOTRASCHKE",
+            "Jonathan KNOTTNERUS-MEYER",
+            "Max RAMM"
+        ]
+    },
+    "B041": {
+        "skipper": "Paul OST",
+        "crew": [
+            "Florian SCHLITTER",
+            "Jacob ALEKIAN",
+            "Felix PIECHOWIAK"
+        ]
+    },
+    "BW007": {
+        "skipper": "Felix SCHRIMPER",
+        "crew": [
+            "Johannes VOIGT",
+            "Albert GERSTMAIR",
+            "Wanja PIEPENSTOCK"
+        ]
+    },
+    "MV041": {
+        "skipper": "Johanna MEIER",
+        "crew": [
+            "Willy BRANDT",
+            "Hauke SPONHOLZ",
+            "Benjamin FRANKE"
+        ]
+    },
+    "SH036": {
+        "skipper": "Sönke BOY",
+        "crew": [
+            "Stefan KÖSSLING",
+            "Christian MAAS",
+            "Conrad BARTELS"
+        ]
+    },
+    "NW137": {
+        "skipper": "Maike ROOS",
+        "crew": [
+            "Aron ROOS",
+            "Morten ROOS",
+            "Constantin DÖRSCH"
+        ]
+    },
+    "SH013": {
+        "skipper": "Charlotte BRAUN-DULLAEUS",
+        "crew": [
+            "Terje KLOCKEMANN",
+            "Tobias STRENGE",
+            "Julius BRAUN-DULLAEUS"
+        ]
+    },
+    "NW039": {
+        "skipper": "Michael KREUTZMANN",
+        "crew": [
+            "Justus TROMPETER",
+            "Jannis NACKE",
+            "Lennard RISKOP"
+        ]
+    },
+    "NW040": {
+        "skipper": "Philipp JUNKER",
+        "crew": [
+            "Finn SZYMANSKI",
+            "Carolin JUNKER",
+            "Moritz DAHM"
+        ]
+    },
+    "HA033": {
+        "skipper": "Till KRÜGER",
+        "crew": [
+            "Lynn HAFEMANN",
+            "Benjamin AHLERS",
+            "Ole von STUDNITZ"
+        ]
+    },
+    "NW087": {
+        "skipper": "Dirk STRELOW",
+        "crew": [
+            "Matthias RIFFELER",
+            "Heiko RIFFELER",
+            "Jan SCHILLING"
+        ]
+    }
+}

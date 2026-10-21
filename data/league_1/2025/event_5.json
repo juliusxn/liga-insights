@@ -1,0 +1,146 @@
+{
+    "BW007": {
+        "skipper": "Bendix Piet MAYER",
+        "crew": [
+            "Amelie RINN",
+            "Nils HOFFMANN",
+            "Jacques ZÜRN"
+        ]
+    },
+    "BW044": {
+        "skipper": "Dominic FRITZE",
+        "crew": [
+            "Maximilian DEGNER",
+            "Dominik WINTER",
+            "Clemens WIEDEMANN"
+        ]
+    },
+    "BA003": {
+        "skipper": "Felix NESZVECSKO",
+        "crew": [
+            "Julius NESZVECSKO",
+            "Ole ULRICH",
+            "Anton SATTLER"
+        ]
+    },
+    "HA033": {
+        "skipper": "Magnus SIMON",
+        "crew": [
+            "Max AUGUSTIN",
+            "Max KLEINSORG",
+            "Finn OLSEN"
+        ]
+    },
+    "B049": {
+        "skipper": "Jana MÄTZ",
+        "crew": [
+            "Wolfram KRAMER",
+            "Daniel MAUTER",
+            "Andreas WIENER"
+        ]
+    },
+    "B004": {
+        "skipper": "Christoph CORNELIUS",
+        "crew": [
+            "Rupert STOREY",
+            "Daniel SCHWARZE",
+            "Philipp MOULINE"
+        ]
+    },
+    "NW002": {
+        "skipper": "Kai-Steffen HOFMANN",
+        "crew": [
+            "Patrick TREICHEL",
+            "Nils-Henning HOFMANN",
+            "Philipp SCHRADER"
+        ]
+    },
+    "B048": {
+        "skipper": "Frederick EICHHORST",
+        "crew": [
+            "Mike PRZYBYL",
+            "Paul ESTRADA POX",
+            "Lucas SCHLÜTER"
+        ]
+    },
+    "MV041": {
+        "skipper": "Jakob PORTHUN",
+        "crew": [
+            "Paul ARP",
+            "Laurenz HAGEN",
+            "Luca LEIDHOLDT"
+        ]
+    },
+    "B044": {
+        "skipper": "Frederike LOEWE",
+        "crew": [
+            "Elias ROTHE",
+            "Jan Jasper WAGNER",
+            "Julian RUHNKE"
+        ]
+    },
+    "BA001": {
+        "skipper": "Julian SENSCH",
+        "crew": [
+            "Philip HALL",
+            "Oda HAUSMANN",
+            "Ludwig GEISWEID"
+        ]
+    },
+    "B041": {
+        "skipper": "Malte CHRISTOPHERSEN",
+        "crew": [
+            "Sebastian SALEIN",
+            "Thilo MERZ",
+            "Simon MERZ"
+        ]
+    },
+    "SH037": {
+        "skipper": "Friederike LARSEN",
+        "crew": [
+            "Svea WREDE",
+            "Moritz BURMESTER",
+            "Marcus PIES"
+        ]
+    },
+    "HA002": {
+        "skipper": "Leon PASSLACK",
+        "crew": [
+            "Julia KÜHN",
+            "Klaas HÖPCKE",
+            "Malte PÄSLER"
+        ]
+    },
+    "B046": {
+        "skipper": "Bruno CZYLWIK",
+        "crew": [
+            "Laurenz ODENBREIT",
+            "Hannah WEGGÄSSER",
+            "Amal ZSCHECH"
+        ]
+    },
+    "HA005": {
+        "skipper": "Paul WENZEL",
+        "crew": [
+            "Jenne HECKER",
+            "Friederike MELTZNER",
+            "Timm CORDES"
+        ]
+    },
+    "SH002": {
+        "skipper": "Moritz PEITZNER",
+        "crew": [
+            "Jaard PAULSEN",
+            "Berit BELLIN",
+            "Jonas ROHWER"
+        ]
+    },
+    "BW001": {
+        "skipper": "Konstantin STEIDLE",
+        "crew": [
+            "Julia KIRGIS",
+            "Tom LEMBCKE",
+            "Patrick HASSE"
+        ]
+    }
+}

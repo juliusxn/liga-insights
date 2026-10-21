@@ -48,11 +48,11 @@
             {
                 "rank": 1,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Tobias SCHADEWALDT",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Johann KOHLHOFF",
+                        "Klaas HÖPCKE",
+                        "Hinnerk MÜLLER"
                     ]
                 }
             }
@@ -337,11 +337,11 @@
             {
                 "rank": 4,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Philipp BRUHNS",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Philip RAABE",
+                        "Valentin GEBHARDT",
+                        "Maximilian NICKEL"
                     ]
                 }
             },
@@ -408,11 +408,11 @@
             {
                 "rank": 11,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Carsten KEMMLING",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Eike MARTENS",
+                        "Daniel LABHART",
+                        "Tjorben WITTOR"
                     ]
                 }
             }
@@ -648,11 +648,11 @@
             {
                 "rank": 2,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Felix KAISER",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Nils STERNBECK",
+                        "Adrian HOESCH",
+                        "Leopold LINDNER"
                     ]
                 }
             }
@@ -1068,11 +1068,11 @@
             {
                 "rank": 16,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Mike PRZYBYL",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Moritz KAHL",
+                        "Elias BÖTTGER",
+                        "Paul POX"
                     ]
                 }
             }

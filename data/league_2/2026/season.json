@@ -244,55 +244,55 @@
             {
                 "rank": 4,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Johannes MACHUR",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Leif MEYER",
+                        "Laurenz HAGEN",
+                        "Malte JACOBS"
                     ]
                 }
             },
             {
                 "rank": 16,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Porthun JAKOB",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Hempel FRIDJOFF",
+                        "Kröplin GUNNAR",
+                        "Mahlstedt JULIUS"
                     ]
                 }
             },
             {
                 "rank": 9,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Jakob PORTHUN",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Gunnar KRÖPLIN",
+                        "Malte JACOBS",
+                        "Luca PRZYBYL"
                     ]
                 }
             },
             {
                 "rank": 1,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Mika TROSIEN",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Paul ARP",
+                        "Adrian HELBIG",
+                        "Luca LEIDHOLDT"
                     ]
                 }
             },
             {
                 "rank": 3,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Johannes MACHUR",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Leif MEYER",
+                        "Adrian HELBIG",
+                        "Eric WERNER"
                     ]
                 }
             }

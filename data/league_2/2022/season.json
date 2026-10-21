@@ -48,11 +48,11 @@
             {
                 "rank": 9,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Bendix Piet MAYER",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Jakob ZÜRN",
+                        "Nils HOFFMANN",
+                        "Nicolas KUTTER"
                     ]
                 }
             }

@@ -59,11 +59,11 @@
             {
                 "rank": 1,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Tobias SCHADEWALDT",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Johann KOHLHOFF",
+                        "Klaas HÖPCKE",
+                        "Malte PÄSLER"
                     ]
                 }
             }
@@ -272,11 +272,11 @@
             {
                 "rank": 10,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Jan SEEKAMP",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Eike MARTENS",
+                        "Jens TSCHENTSCHER",
+                        "Markus MAISENBACHER"
                     ]
                 }
             }
@@ -414,11 +414,11 @@
             {
                 "rank": 16,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Michael ZITTLAU",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Charlotta FRITZ",
+                        "Florian STEIDLE",
+                        "Aaron SCHERR"
                     ]
                 }
             }
@@ -840,11 +840,11 @@
             {
                 "rank": 5,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Maximilian NICKEL",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Valentin GEBHARDT",
+                        "Max WOHLFEIL",
+                        "Christoph KEESE"
                     ]
                 }
             }
@@ -1266,11 +1266,11 @@
             {
                 "rank": 18,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Anna LIENAU",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Sebastian WEINER",
+                        "Livia de BOER",
+                        "Jana SCHERBARTH"
                     ]
                 }
             }

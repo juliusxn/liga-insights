@@ -686,11 +686,11 @@
             {
                 "rank": 5,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Felix LAUKHARD",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Stefan OETKEN",
+                        "Christoph DAMM",
+                        "Maximilian SCHMID"
                     ]
                 }
             },
@@ -708,11 +708,11 @@
             {
                 "rank": 9,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Jan KLOCKE VÁZQUEZ",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Florentin MUCHENBERGER",
+                        "Stefan OETKEN",
+                        "Maximilian SCHMID"
                     ]
                 }
             }
@@ -828,11 +828,11 @@
             {
                 "rank": 17,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Nina ERBACH",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Moritz von WEIDENBACH",
+                        "Lorenz SCHUWERACK",
+                        "Jan VESTER"
                     ]
                 }
             }
@@ -937,11 +937,11 @@
             {
                 "rank": 15,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Armin ALTENA",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Lukas BITTMANN",
+                        "Lukas ROSS",
+                        "Philipp ALTENA"
                     ]
                 }
             },

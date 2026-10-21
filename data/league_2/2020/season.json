@@ -331,11 +331,11 @@
             {
                 "rank": 4,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Julian RAMM",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Paula SCHÄLKE",
+                        "Oliver LEWIN",
+                        "Olé HARDER"
                     ]
                 }
             }
@@ -429,11 +429,11 @@
             {
                 "rank": 7,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Silke BASEDOW",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Juliane ZEPP",
+                        "Kristina MAUS",
+                        "Lea-Katharina WITT"
                     ]
                 }
             }
@@ -478,11 +478,11 @@
             {
                 "rank": 13,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Hannah KNOPP",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Paul KÜBEL",
+                        "Kim HEDFELD",
+                        "Alexander JANSEN"
                     ]
                 }
             }
@@ -625,11 +625,11 @@
             {
                 "rank": 11,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Thorsten WILLEMSEN",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Michael TENBENSEL",
+                        "Stefan SUNDARP",
+                        "Kolja PAUS"
                     ]
                 }
             }

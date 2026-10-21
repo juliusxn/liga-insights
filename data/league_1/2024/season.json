@@ -769,11 +769,11 @@
             {
                 "rank": 10,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Moritz PEITZNER",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Noah Lee PIOTRASCHKE",
+                        "Berit BELLIN",
+                        "Jonas ROHWER"
                     ]
                 }
             }
@@ -1114,22 +1114,22 @@
             {
                 "rank": 17,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Helge BOCHMANN",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Martin ROTHE",
+                        "Marc DÖRFEL",
+                        "Felix MOSEBACH"
                     ]
                 }
             },
             {
                 "rank": 14,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Christoph PAWLOWSKI-HEGERMANN",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Felix MOSEBACH",
+                        "Maik SEIFERT",
+                        "Moritz SCHÖNHERR"
                     ]
                 }
             },

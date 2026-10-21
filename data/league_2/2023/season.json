@@ -648,11 +648,11 @@
             {
                 "rank": 5,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Philipp JUNKER",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Finn SZYMANSKI",
+                        "Carolin JUNKER",
+                        "Nils LEITERHOLD"
                     ]
                 }
             }
@@ -708,11 +708,11 @@
             {
                 "rank": 8,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Ronald ROOS",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Maike ROOS",
+                        "Maren ROOS",
+                        "Aron ROOS"
                     ]
                 }
             }

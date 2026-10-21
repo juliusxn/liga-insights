@@ -758,22 +758,22 @@
             {
                 "rank": 2,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Frederick EICHHORST",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Mike PRZYBYL",
+                        "Paul ESTRADA POX",
+                        "Lucas SCHLÜTER"
                     ]
                 }
             },
             {
                 "rank": 6,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Frederick EICHHORST",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Lucas SCHLÜTER",
+                        "Mike PRZYBYL",
+                        "Hannes PAPENTHIN"
                     ]
                 }
             }
@@ -971,22 +971,22 @@
             {
                 "rank": 13,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Paul WENZEL",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Jenne HECKER",
+                        "Friederike MELTZNER",
+                        "Timm CORDES"
                     ]
                 }
             },
             {
                 "rank": 11,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Siri SEGGER",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Jonathan WILLE",
+                        "Paul WENZEL",
+                        "Jenne HECKER"
                     ]
                 }
             }

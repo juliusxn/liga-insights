@@ -1004,11 +1004,11 @@
             {
                 "rank": 15,
                 "team": {
-                    "skipper": null,
+                    "skipper": "Julian BLUMENTHAL",
                     "crew": [
-                        null,
-                        null,
-                        null
+                        "Lars SCHAFMEISTER",
+                        "Tom KRELL",
+                        "Tim SCHILLING"
                     ]
                 }
             }
